@@ -1,0 +1,302 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{F6CF5E48-A27F-4EFE-B079-70BA3133BA9F}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Sitecore.Roadshow</RootNamespace>
+    <AssemblyName>Sitecore.Roadshow</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <UseIISExpress>false</UseIISExpress>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="Sitecore.Analytics, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Sitecore.Analytics.dll</HintPath>
+    </Reference>
+    <Reference Include="Sitecore.Base, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>Dependencies\Sitecore.Base.dll</HintPath>
+    </Reference>
+    <Reference Include="Sitecore.Client, Version=6.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Sitecore.Client.dll</HintPath>
+    </Reference>
+    <Reference Include="Sitecore.Kernel, Version=6.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Sitecore.Kernel.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="assets\media\images\accept.png" />
+    <Content Include="assets\media\images\bg_border_dotted.gif" />
+    <Content Include="assets\media\images\h3_bg_green.gif" />
+    <Content Include="assets\media\images\round_marker_black_btt.jpg" />
+    <Content Include="assets\media\images\round_marker_black_ttb.jpg" />
+    <Content Include="assets\media\images\round_marker_red_ltr.jpg" />
+    <Content Include="assets\media\images\sitecore-logo.png" />
+    <Content Include="assets\styles\global.css" />
+    <Content Include="assets\xml\courses.xml" />
+    <Content Include="Default.aspx" />
+    <Content Include="Dependencies\Sitecore.Base.dll" />
+    <Content Include="Global.asax" />
+    <Content Include="layouts\Default.aspx" />
+    <Content Include="sitecore\shell\Controls\Rich Text Editor\Default.aspx" />
+    <Content Include="sublayouts\ContentModules\ImageList\ImageList.ascx" />
+    <Content Include="sublayouts\ContentModules\NewsList\NewsList.ascx" />
+    <Content Include="sublayouts\Global\Common\Page\BasePageInformation.ascx" />
+    <Content Include="sublayouts\Global\Framework\Footer.ascx" />
+    <Content Include="sublayouts\Global\Framework\Frames\OneColumnContent.ascx" />
+    <Content Include="sublayouts\Global\Framework\Frames\ThreeColumnContent.ascx" />
+    <Content Include="sublayouts\Global\Framework\Frames\TwoColumnContent.ascx" />
+    <Content Include="sublayouts\Global\Framework\HtmlHeader.ascx" />
+    <Content Include="sublayouts\Global\Framework\LeftNavigation.ascx" />
+    <Content Include="sublayouts\Global\Framework\TopNavigation.ascx" />
+    <Content Include="sublayouts\Global\Home\QuickLinks.ascx" />
+    <Content Include="sublayouts\Global\Home\Start.ascx" />
+    <Content Include="sublayouts\Global\Home\Teaser.ascx" />
+    <Content Include="sublayouts\Global\News\NewsInformation.ascx" />
+    <Content Include="sublayouts\SideBarModules\Contact\ContactBox.ascx" />
+    <Content Include="sublayouts\SideBarModules\Login\LoginBox.ascx" />
+    <Content Include="sublayouts\SideBarModules\Newsletter\NewsletterBox.ascx" />
+    <Content Include="sublayouts\SideBarModules\RichText\RichTextBox.ascx" />
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="App_Data\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="App_Config\ConnectionStrings.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Sitecore.Roadshow.Code\Sitecore.Roadshow.Code.csproj">
+      <Project>{CAB4D106-BB50-43F3-8996-8E3244C2017A}</Project>
+      <Name>Sitecore.Roadshow.Code</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="App_Config\Include\Sitecore.Analytics.config">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="App_Config\Include\Sitecore.Analytics.ExcludeRobots.config" />
+    <Content Include="App_Config\Include\Sitecore.WebDAV.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="layouts\Default.aspx.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="layouts\Default.aspx.designer.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="sublayouts\ContentModules\ImageList\ImageList.ascx.cs">
+      <DependentUpon>ImageList.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="sublayouts\ContentModules\ImageList\ImageList.ascx.designer.cs">
+      <DependentUpon>ImageList.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="sublayouts\ContentModules\NewsList\NewsList.ascx.cs">
+      <DependentUpon>NewsList.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="sublayouts\ContentModules\NewsList\NewsList.ascx.designer.cs">
+      <DependentUpon>NewsList.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="sublayouts\Global\Common\Page\BasePageInformation.ascx.cs">
+      <DependentUpon>BasePageInformation.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="sublayouts\Global\Common\Page\BasePageInformation.ascx.designer.cs">
+      <DependentUpon>BasePageInformation.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="sublayouts\Global\Framework\Footer.ascx.cs">
+      <DependentUpon>Footer.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="sublayouts\Global\Framework\Footer.ascx.designer.cs">
+      <DependentUpon>Footer.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="sublayouts\Global\Framework\Frames\OneColumnContent.ascx.cs">
+      <DependentUpon>OneColumnContent.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="sublayouts\Global\Framework\Frames\OneColumnContent.ascx.designer.cs">
+      <DependentUpon>OneColumnContent.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="sublayouts\Global\Framework\Frames\ThreeColumnContent.ascx.cs">
+      <DependentUpon>ThreeColumnContent.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="sublayouts\Global\Framework\Frames\ThreeColumnContent.ascx.designer.cs">
+      <DependentUpon>ThreeColumnContent.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="sublayouts\Global\Framework\Frames\TwoColumnContent.ascx.cs">
+      <DependentUpon>TwoColumnContent.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="sublayouts\Global\Framework\Frames\TwoColumnContent.ascx.designer.cs">
+      <DependentUpon>TwoColumnContent.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="sublayouts\Global\Framework\HtmlHeader.ascx.cs">
+      <DependentUpon>HtmlHeader.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="sublayouts\Global\Framework\HtmlHeader.ascx.designer.cs">
+      <DependentUpon>HtmlHeader.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="sublayouts\Global\Framework\LeftNavigation.ascx.cs">
+      <DependentUpon>LeftNavigation.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="sublayouts\Global\Framework\LeftNavigation.ascx.designer.cs">
+      <DependentUpon>LeftNavigation.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="sublayouts\Global\Framework\TopNavigation.ascx.cs">
+      <DependentUpon>TopNavigation.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="sublayouts\Global\Framework\TopNavigation.ascx.designer.cs">
+      <DependentUpon>TopNavigation.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="sublayouts\Global\Home\QuickLinks.ascx.cs">
+      <DependentUpon>QuickLinks.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="sublayouts\Global\Home\QuickLinks.ascx.designer.cs">
+      <DependentUpon>QuickLinks.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="sublayouts\Global\Home\Start.ascx.cs">
+      <DependentUpon>Start.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="sublayouts\Global\Home\Start.ascx.designer.cs">
+      <DependentUpon>Start.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="sublayouts\Global\Home\Teaser.ascx.cs">
+      <DependentUpon>Teaser.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="sublayouts\Global\Home\Teaser.ascx.designer.cs">
+      <DependentUpon>Teaser.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="sublayouts\Global\News\NewsInformation.ascx.cs">
+      <DependentUpon>NewsInformation.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="sublayouts\Global\News\NewsInformation.ascx.designer.cs">
+      <DependentUpon>NewsInformation.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="sublayouts\SideBarModules\Contact\ContactBox.ascx.cs">
+      <DependentUpon>ContactBox.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="sublayouts\SideBarModules\Contact\ContactBox.ascx.designer.cs">
+      <DependentUpon>ContactBox.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="sublayouts\SideBarModules\Login\LoginBox.ascx.cs">
+      <DependentUpon>LoginBox.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="sublayouts\SideBarModules\Login\LoginBox.ascx.designer.cs">
+      <DependentUpon>LoginBox.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="sublayouts\SideBarModules\Newsletter\NewsletterBox.ascx.cs">
+      <DependentUpon>NewsletterBox.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="sublayouts\SideBarModules\Newsletter\NewsletterBox.ascx.designer.cs">
+      <DependentUpon>NewsletterBox.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="sublayouts\SideBarModules\RichText\RichTextBox.ascx.cs">
+      <DependentUpon>RichTextBox.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="sublayouts\SideBarModules\RichText\RichTextBox.ascx.designer.cs">
+      <DependentUpon>RichTextBox.ascx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="App_Config\Commands.config">
+      <SubType>Designer</SubType>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="App_Config\Include\SitecoreSettings.config">
+      <SubType>Designer</SubType>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="App_Config\Include\CourseDataProvider.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>False</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>57285</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>
+          </IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

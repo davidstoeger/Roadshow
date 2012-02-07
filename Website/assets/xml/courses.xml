@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<courses>
+  <course id="{00000000-0000-0000-0000-000000000001}">
+    <name>course-1</name>
+    <costs>99</costs>
+    <courses>
+      <course id="{00000000-0000-0000-0000-000000000011}">
+        <name>course-1-1</name>
+        <costs>99</costs>
+        <courses>
+          <course id="{00000000-0000-0000-0000-000000000111}">
+            <name>course-1-1-1</name>
+            <costs>99</costs>
+          </course>
+          <course id="{00000000-0000-0000-0000-000000000211}">
+            <name>course-1-1-2</name>
+            <costs>99</costs>
+          </course>
+        </courses>
+      </course>
+      <course id="{00000000-0000-0000-0000-000000000021}">
+        <name>course-1-2</name>
+        <costs>99</costs>
+        <courses>
+          <course id="{00000000-0000-0000-0000-000000000121}">
+            <name>course-1-2-1</name>
+            <costs>99</costs>
+          </course>
+          <course id="{00000000-0000-0000-0000-000000000221}">
+            <name>course-1-2-2</name>
+            <costs>99</costs>
+          </course>
+        </courses>
+      </course>
+    </courses>
+  </course>
+  <course id="{00000000-0000-0000-0000-000000000002}">
+    <name>course-2</name>
+    <costs>99</costs>
+  </course>
+  <course id="{00000000-0000-0000-0000-000000000003}">
+    <name>course-3</name>
+    <costs>99</costs>
+  </course>
+
+</courses>
