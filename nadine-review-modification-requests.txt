@@ -1,0 +1,10 @@
+>- image source pfad richtig setzen
+
+>- branch für image list erstellen, sodass automatisch ein bild schon dabei ist.
+
+>- field editor für ein news-modul verwenden (field editor soll felder bearbeitbar machen, die nicht am frontend sichtbar sind)
+>- command, das einen neu erstellten news-eintrag automatisch verschiebt.
+>- datasource feld auf ein typ "Drop Tree" ändern, so dass nicht mehr der pfad sondern die ID gespeichert wird. (keine probleme beim verschieben)
+>- newsletter modul als eigenes modul entwickeln, über die standardvalues des page-items immer an die seite binden. dadurch muss das modul
+  nicht immer neu personalisiert werden
+>- Layout Presets Use-Case in die Demo einbauen

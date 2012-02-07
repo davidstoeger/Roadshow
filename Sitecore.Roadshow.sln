@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sitecore.Roadshow", "Website\Sitecore.Roadshow.csproj", "{F6CF5E48-A27F-4EFE-B079-70BA3133BA9F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sitecore.Roadshow.Code", "Sitecore.Roadshow.Code\Sitecore.Roadshow.Code.csproj", "{CAB4D106-BB50-43F3-8996-8E3244C2017A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6CF5E48-A27F-4EFE-B079-70BA3133BA9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6CF5E48-A27F-4EFE-B079-70BA3133BA9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6CF5E48-A27F-4EFE-B079-70BA3133BA9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6CF5E48-A27F-4EFE-B079-70BA3133BA9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAB4D106-BB50-43F3-8996-8E3244C2017A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAB4D106-BB50-43F3-8996-8E3244C2017A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAB4D106-BB50-43F3-8996-8E3244C2017A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAB4D106-BB50-43F3-8996-8E3244C2017A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
