@@ -5,6 +5,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sitecore.Roadshow", "Websit
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sitecore.Roadshow.Code", "Sitecore.Roadshow.Code\Sitecore.Roadshow.Code.csproj", "{CAB4D106-BB50-43F3-8996-8E3244C2017A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sitecore.Roadshow.Profiling", "Website\Components\Sitecore.Roadshow.Profiling\Sitecore.Roadshow.Profiling.csproj", "{AB3AECD3-36F7-414F-B336-6F560A4BD606}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,6 +21,10 @@ Global
 		{CAB4D106-BB50-43F3-8996-8E3244C2017A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CAB4D106-BB50-43F3-8996-8E3244C2017A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CAB4D106-BB50-43F3-8996-8E3244C2017A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB3AECD3-36F7-414F-B336-6F560A4BD606}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB3AECD3-36F7-414F-B336-6F560A4BD606}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB3AECD3-36F7-414F-B336-6F560A4BD606}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB3AECD3-36F7-414F-B336-6F560A4BD606}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

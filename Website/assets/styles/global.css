@@ -10,26 +10,31 @@ html, body
     font-family: Arial,Helvetica,sans-serif;
     font-size: 12px;
 }
+a:hover
+{
+    text-decoration: underline;
+}
 
 body
 {
     padding-top: 20px;
-    color: #333333;
+  color: #5E5D5D;
     font-family: Arial,Helvetica,sans-serif;
     background-color: #FFF;
+    font-size:12px;
 }
 
 h1
 {
-    font-size: 20px;
-    font-weight: normal;
+    font-size: 18px;
+    font-weight: bold
     line-height: 120%;
     margin: 0 0 16px;
 }
 
 h2
 {
-    font-size: 15px;
+    font-size: 14px;
     font-weight: normal;
     line-height: 120%;
     margin: 0 0 30px;
@@ -43,7 +48,7 @@ h3
 
 p
 {
-    font-size: 12px;
+    font-size: 11px;
     margin: 0 0 20px;
 }
 
@@ -110,10 +115,12 @@ ol, ul
 {
     color: #242424;
     float: left;
-    font-size: 12px;
+    font-size: 16px;
+    font-weight: bold;
     line-height: 32px;
     padding: 0 58px 0 0;
 }
+
 
 #main .teaser-row
 {
@@ -125,10 +132,8 @@ ol, ul
 }
 
 #main .teaser-row li
-{
-    color: #242424;
-    float: left;
-    font-size: 12px;
+{    
+    float: left;    
     line-height: 130%;
     list-style-type: none;
     margin: 0 8px 0 0;
