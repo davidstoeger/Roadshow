@@ -1,0 +1,76 @@
+----item----
+version: 1
+id: {809528B1-588A-42A7-93C1-41E73800100A}
+database: master
+path: /sitecore/layout/Placeholder Settings/webedit
+parent: {1CE3B36C-9B0C-4EB5-A996-BFCB4EAA5287}
+name: webedit
+master: {00000000-0000-0000-0000-000000000000}
+template: {5C547D4E-7111-4995-95B0-6B561751BF2E}
+templatekey: Placeholder
+
+----field----
+field: {7256BDAB-1FD2-49DD-B205-CB4873D2917C}
+name: Placeholder Key
+key: placeholder key
+content-length: 7
+
+webedit
+----field----
+field: {14D0728A-82F9-4B01-AB16-1FE1577CEDE2}
+name: Editable
+key: editable
+content-length: 0
+
+
+----version----
+language: en
+version: 1
+revision: d8eb48b6-d27d-45b2-9433-e67d6b2b6315
+
+----field----
+field: {87871FF5-1965-46D6-884F-01D6A0B9C4C1}
+name: Description
+key: description
+content-length: 822
+
+<div style="font-size: 0.8em;">
+<p style="margin-top: 0px;">Sitecore 6.4 and later supports the webedit placeholder for compatibility with previous releases, but deprecates this feature.</p>
+<p>If a layout contains a placeholder with the "webedit" key, the Page Editor inserts the Page Editor ribbon into that placeholder, and the ribbon scrolls up and down with the page. If a layout does not contain a placeholder with the "webedit" key, the Page Editor always displays the ribbon at the top of the browser window when the user scrolls up and down through the rendered page thereby providing a better user experience.</p>
+<p>The purpose of this webedit placeholder settings definition item is to prevent Page Editor users from binding presentation controls to the "webedit" placeholder when it is present.</p>
+</div>
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 15
+
+20100713T155300
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+d8eb48b6-d27d-45b2-9433-e67d6b2b6315
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 34
+
+20110316T161910:634358891509744454
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

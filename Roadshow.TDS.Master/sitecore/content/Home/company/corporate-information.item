@@ -1,0 +1,143 @@
+----item----
+version: 1
+id: {4116C112-3B98-4F02-8E0F-D5C2C34C5793}
+database: master
+path: /sitecore/content/Home/company/corporate-information
+parent: {F6CA4D62-1958-4D8E-9AB5-89991B5D81F5}
+name: corporate-information
+master: {037E0C7A-E7C8-4F26-87E6-311B050C3894}
+template: {8B997BBB-FF14-48C3-BCFE-1CF6B1CCF381}
+templatekey: Page
+
+----field----
+field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
+name: __Sortorder
+key: __sortorder
+content-length: 3
+
+400
+----field----
+field: {F6D8A61C-2F84-4401-BD24-52D2068172BC}
+name: __Originator
+key: __originator
+content-length: 0
+
+
+----field----
+field: {F1A1FE9E-A60C-4DDB-A3A0-BB5B29FE732E}
+name: __Renderings
+key: __renderings
+content-length: 784
+
+<r xmlns:p="p" xmlns:s="s" p:p="1"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"><r uid="{3582D83A-D17E-4D3A-B55C-C984FB4C2162}" p:before="r[@uid='{FE5BE1AD-C9E9-4FF6-AC3D-EE36682DF18F}']" s:ds="/sitecore/content/Home/company/corporate-information/sidebar/rich-text-box" s:id="{0C2F452F-9829-40FF-BAA6-F4AAED132D1E}" s:ph="/main/sidebar" /><r uid="{FE5BE1AD-C9E9-4FF6-AC3D-EE36682DF18F}" p:before="r[@uid='{58EF2D10-6F86-4D2F-9E42-E62D053B8C62}']" s:ds="/sitecore/content/Global/Contacts/David-Stoeger" s:id="{4B9D3879-4D4B-4CA1-B819-4E1B7708F9F4}" s:ph="/main/sidebar" /><r uid="{E31CCAC9-8CAD-473C-8F43-43C83AEB2D87}" s:ds="/sitecore/content/Home/company/corporate-information/content/image-list-1" s:id="{060EC704-FCE9-4CC0-A2D5-34D8DAA47F78}" s:ph="/main/middlecolumn" /></d></r>
+----field----
+field: {A4F985D9-98B3-4B52-AAAF-4344F6E747C6}
+name: __Workflow
+key: __workflow
+content-length: 38
+
+{A5BC37E7-ED96-4C1E-8590-A26E64DB55EA}
+----version----
+language: en
+version: 1
+revision: c5a91ccd-bb1d-43ae-b62b-ad94f5eca9ea
+
+----field----
+field: {7C1474A2-AF56-4E94-A1DE-AD46442DA8E6}
+name: Navigation Title
+key: navigation title
+content-length: 21
+
+Corporate Information
+----field----
+field: {9BE8BDCF-2F09-4912-ABE0-9214770ACEB4}
+name: Headline
+key: headline
+content-length: 21
+
+Corporate Information
+----field----
+field: {B1AE1B2C-8980-46D6-84C3-B390B792F13B}
+name: Teaser Text
+key: teaser text
+content-length: 33
+
+Corporate Information Teaser Text
+----field----
+field: {2F36D3C0-F301-43BF-86F6-75FAB1E25E7F}
+name: Description
+key: description
+content-length: 136
+
+<p>Rich Text Feld f&uuml;r content seite</p>
+<p>sa&ouml;df kjasd&ouml;lfjsakdl&ouml;f <strong>jkdsfdkj</strong> s ld fjdslkf sldkf </p>
+----field----
+field: {BD055DA9-D871-4B74-8D6A-26A9A269A4EE}
+name: Image
+key: image
+content-length: 136
+
+<image mediaid="{08AB1EBF-448E-466E-832A-01952F291510}" mediapath="/Images/Header/Sitecore" src="-/media/Images/Header/Sitecore.ashx" />
+----field----
+field: {DEFE0FA6-E636-4F12-8275-9E1710F5C931}
+name: Browser Title
+key: browser title
+content-length: 21
+
+Corporate Information
+----field----
+field: {4BAB50CD-E41A-493C-A1BB-238B9E44AD72}
+name: Meta Description
+key: meta description
+content-length: 36
+
+Corporate Information about Sitecore
+----field----
+field: {9E0926A4-EC01-450B-A80D-68B67299AD9A}
+name: Meta Keywords
+key: meta keywords
+content-length: 32
+
+Corporate, Information, Sitecore
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 15
+
+20120125T110848
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+c5a91ccd-bb1d-43ae-b62b-ad94f5eca9ea
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 34
+
+20120126T132113:634631808733238082
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{FCA998C5-0CC3-4F91-94D8-0A4E6CAECE88}
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />
