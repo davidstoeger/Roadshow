@@ -62,6 +62,7 @@
     <Compile Include="Application\DataProviders\CourseDataProvider.cs" />
     <Compile Include="Application\DataProviders\CustomSqlServerDataProvider.cs" />
     <Compile Include="Application\Events\CoursePublishRestriction.cs" />
+    <Compile Include="Application\Pipelines\LoadVisitorData.cs" />
     <Compile Include="Application\Pipelines\StartTracking\OverrideIPAddress.cs" />
     <Compile Include="Application\Search\NewsSearcher.cs" />
     <Compile Include="Application\Utils\Dictionary.cs" />
