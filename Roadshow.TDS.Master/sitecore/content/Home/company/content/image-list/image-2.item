@@ -1,0 +1,79 @@
+----item----
+version: 1
+id: {4AD8F6A4-BA49-40D5-918B-1DA355B92E18}
+database: master
+path: /sitecore/content/Home/company/content/image-list/image-2
+parent: {B61FFDF9-C168-4B3D-942B-D15D1D3877A7}
+name: image-2
+master: {00000000-0000-0000-0000-000000000000}
+template: {D7B09B91-C0B8-4313-AB6D-E7644177B592}
+templatekey: Image Entry
+
+----version----
+language: en
+version: 1
+revision: 91db937a-b3b2-4bab-a3ea-34f68cabc3eb
+
+----field----
+field: {82158B08-BD71-42DE-A778-D1B905AC4FC5}
+name: Image
+key: image
+content-length: 174
+
+<image mediaid="{CE4EE71D-A632-4191-A4C5-D17590751DF6}" mediapath="/Images/Teaser/Teaser_Xmas_11_rdax_180x150" src="~/media/Images/Teaser/Teaser_Xmas_11_rdax_180x150.ashx" />
+----field----
+field: {1B4EE1AA-37C7-4CFC-A54B-31E23444B239}
+name: Image Description
+key: image description
+content-length: 13
+
+X-mas special
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 15
+
+20120125T164225
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+91db937a-b3b2-4bab-a3ea-34f68cabc3eb
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 34
+
+20120125T164342:634631066226074597
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

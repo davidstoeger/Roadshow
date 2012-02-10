@@ -1,0 +1,51 @@
+----item----
+version: 1
+id: {6568942E-7E92-4804-B1AE-0B95F5E0D7C6}
+database: master
+path: /sitecore/content/Home/company/corporate-news/news/2012/02
+parent: {18D21BE8-3E91-4065-BEB3-B1F57A6DCA86}
+name: 02
+master: {00000000-0000-0000-0000-000000000000}
+template: {A87A00B1-E6DB-45AB-8B54-636FEC3B5523}
+templatekey: Folder
+
+----version----
+language: en
+version: 1
+revision: 18056f76-a805-4c7e-a556-94f88fd89fdd
+
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 15
+
+20120203T094056
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+18056f76-a805-4c7e-a556-94f88fd89fdd
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 34
+
+20120203T094056:634638588562036117
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

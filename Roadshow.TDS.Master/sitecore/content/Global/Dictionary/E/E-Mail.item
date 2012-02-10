@@ -1,0 +1,51 @@
+----item----
+version: 1
+id: {FCDEADD6-97E3-4713-A834-864F9FED5431}
+database: master
+path: /sitecore/content/Global/Dictionary/E/E-Mail
+parent: {E0DB922F-0807-42DB-AD00-E8D55ACEFFD9}
+name: E-Mail
+master: {00000000-0000-0000-0000-000000000000}
+template: {B66AAAAD-8A9B-4222-8D07-93BA9E20B30F}
+templatekey: Dictionary Entry
+
+----version----
+language: en
+version: 1
+revision: c8b6c524-288b-4727-9e65-8c2625a543b4
+
+----field----
+field: {AAE2A67D-70F8-4735-8F55-1367B06A103C}
+name: Phrase
+key: phrase
+content-length: 6
+
+E-Mail
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 15
+
+20120125T103310
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+c8b6c524-288b-4727-9e65-8c2625a543b4
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 34
+
+20120125T104123:634630848831499387
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

@@ -1,0 +1,30 @@
+----item----
+version: 1
+id: {00000000-0000-0000-0000-000000000121}
+database: master
+path: /sitecore/content/Settings/Courses/course-1/course-1-2/course-1-2-1
+parent: {00000000-0000-0000-0000-000000000021}
+name: course-1-2-1
+master: {00000000-0000-0000-0000-000000000000}
+template: {30B28BAE-97E1-4580-8426-7F8CEE365013}
+templatekey: Course
+
+----version----
+language: en
+version: 1
+revision: 
+
+----field----
+field: {DA699F8C-F0AF-4377-A57F-1FC0D63B4721}
+name: Name
+key: name
+content-length: 12
+
+course-1-2-1
+----field----
+field: {372CD04F-9224-4302-AF9E-E3DED2DB5E64}
+name: Costs
+key: costs
+content-length: 2
+
+99

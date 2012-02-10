@@ -1,0 +1,51 @@
+----item----
+version: 1
+id: {5A1F977C-57EA-46BF-ADC0-4740AA69F555}
+database: master
+path: /sitecore/content/Home/solutions/content/news-list
+parent: {F276389E-21AD-4B90-8352-29195D7A944D}
+name: news-list
+master: {00000000-0000-0000-0000-000000000000}
+template: {B868DCA1-60BD-4B60-AD0A-CF3A1320B7DE}
+templatekey: News List
+
+----version----
+language: en
+version: 1
+revision: 77a65fd8-a79d-4ee1-a7b9-c7a77839222c
+
+----field----
+field: {4F75AFA2-C762-4B27-ADCC-4EABF093276A}
+name: Headline
+key: headline
+content-length: 9
+
+news-list
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 15
+
+20120127T093838
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+77a65fd8-a79d-4ee1-a7b9-c7a77839222c
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 34
+
+20120127T093838:634632539186115021
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
