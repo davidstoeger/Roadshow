@@ -7,7 +7,6 @@
 </head>
 <body>
     <form id="mainForm" runat="server">
-    <asp:ScriptManager ID="scriptManager" runat="server" />
     <sc:VisitorIdentification ID="VisitorIdentification" runat="server"/>
     <div id="page">
         <div id="header">
