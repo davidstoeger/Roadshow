@@ -1,0 +1,116 @@
+----item----
+version: 1
+id: {B4208E2A-8A08-45F9-A888-3716FAE9277A}
+database: master
+path: /sitecore/content/Home/company/corporate-news/news/2012/01/sitecore-als-leader-eingestuft
+parent: {856EB5B2-32C2-4067-B322-E024362C2233}
+name: sitecore-als-leader-eingestuft
+master: {00000000-0000-0000-0000-000000000000}
+template: {1C8317CF-2020-4080-A93B-BCFCED961AF6}
+templatekey: News Item
+
+----field----
+field: {F1A1FE9E-A60C-4DDB-A3A0-BB5B29FE732E}
+name: __Renderings
+key: __renderings
+content-length: 37
+
+<r xmlns:p="p" xmlns:s="s" p:p="1" />
+----field----
+field: {A4F985D9-98B3-4B52-AAAF-4344F6E747C6}
+name: __Workflow
+key: __workflow
+content-length: 38
+
+{A5BC37E7-ED96-4C1E-8590-A26E64DB55EA}
+----version----
+language: en
+version: 1
+revision: adc3efed-4f0f-459b-ada3-fe45374e6c01
+
+----field----
+field: {3279F2CE-5D4E-4DFF-9592-4CAA35DF7962}
+name: Location
+key: location
+content-length: 17
+
+Bremen/Kopenhagen
+----field----
+field: {7C1474A2-AF56-4E94-A1DE-AD46442DA8E6}
+name: Navigation Title
+key: navigation title
+content-length: 30
+
+sitecore-als-leader-eingestuft
+----field----
+field: {9BE8BDCF-2F09-4912-ABE0-9214770ACEB4}
+name: Headline
+key: headline
+content-length: 42
+
+Sitecore von Gartner als Leader eingestuft
+----field----
+field: {211D8AF3-C4E2-4BFD-90E5-2EFC599EC9DB}
+name: Publish Date
+key: publish date
+content-length: 15
+
+20120127T195456
+----field----
+field: {B1AE1B2C-8980-46D6-84C3-B390B792F13B}
+name: Teaser Text
+key: teaser text
+content-length: 78
+
+Sitecore ist laut Gartner der weltweit innovativste, visionärste WCMS-Anbieter
+----field----
+field: {2F36D3C0-F301-43BF-86F6-75FAB1E25E7F}
+name: Description
+key: description
+content-length: 2727
+
+<p style="z-index: 0; text-align: left; padding-bottom: 0px; line-height: 19px;  widows: 2; text-transform: none; background-color: rgb(255,255,255); font-variant: normal; font-style: normal; margin: 0px 0px 10px; padding-left: 0px; outline-width: 0px; padding-right: 10px; white-space: normal; orphans: 2;   letter-spacing: normal; color: rgb(66,66,66); font-size: 12px; vertical-align: baseline;  font-weight: normal; word-spacing: 0px; padding-top: 0px; border-image: initial; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;border-width: 0px;">&nbsp;Die unabh&auml;ngigen Analysten von Gartner haben Sitecore in ihrem aktuell ver&ouml;ffentlichten Report &ldquo;Magic Quadrant for Web Content Management&rdquo; erneut im F&uuml;hrungsquadranten positioniert. Der Anbieter .Net-basierender Content-Management-L&ouml;sungen wurde von Gartner bereits 2010 als f&uuml;hrender Anbieter gelistet. Diesmal gehen die Analysten noch weiter und bescheinigen Sitecore der innovativste Anbieter mit dem integriertesten, vision&auml;rsten Angebot f&uuml;r die Anforderungen modernen Marketings zu sein. Besonders die L&ouml;sungen f&uuml;r integrierte, crossmediale Marketing-Kampagnen stechen positiv unter allen Anbietern hervor.</p>
+<p style="z-index: 0; text-align: left; padding-bottom: 0px; line-height: 19px;  widows: 2; text-transform: none; background-color: rgb(255,255,255); font-variant: normal; font-style: normal; margin: 0px 0px 10px; padding-left: 0px; outline-width: 0px; padding-right: 10px; white-space: normal; orphans: 2;   letter-spacing: normal; color: rgb(66,66,66); font-size: 12px; vertical-align: baseline;  font-weight: normal; word-spacing: 0px; padding-top: 0px; border-image: initial; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;border-width: 0px;">Gartner listet nur die weltweit besten Softwarehersteller im Leaders Quadrant; also Anbieter, die ihren Markt technologisch auf Basis einer klaren Vision und entsprechender Unternehmensst&auml;rke voran bringen. Sitecore besitzt diese F&auml;higkeiten und verf&uuml;gt zudem &uuml;ber ein starkes, globales Partnernetzwerk, bietet Standorte und Support in allen wichtigen Regionen, ist seit Gr&uuml;ndung inhabergef&uuml;hrt und steht seit jeher finanziell bestens da.&nbsp;<br />
+Neben zahlreichen funktionellen Innovationen im Bereich des CMS und des Cloud Computings hat Sitecore im letzten Jahr mit der Customer Engagement Platform (CEP) eine einzigartige Plattform f&uuml;r digitales Marketing auf den Markt gebracht. CEP unterst&uuml;tzt Marketing-Verantwortliche dabei, die crossmediale Komplexit&auml;t im Online-Marketing besser in den Griff zu bekommen und den ROI sowie Conversion-Raten zu steigern.&nbsp;</p>
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 15
+
+20120127T195456
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+adc3efed-4f0f-459b-ada3-fe45374e6c01
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 34
+
+20120127T202412:634632926527977088
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{FCA998C5-0CC3-4F91-94D8-0A4E6CAECE88}
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

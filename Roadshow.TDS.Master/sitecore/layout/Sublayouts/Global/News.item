@@ -1,0 +1,11 @@
+----item----
+version: 1
+id: {C2279E24-02A6-4943-9C82-0273FD3909C6}
+database: master
+path: /sitecore/layout/Sublayouts/Global/News
+parent: {459D2ED6-C1EA-40E6-8C6F-5CFE3CBCF3CA}
+name: News
+master: {00000000-0000-0000-0000-000000000000}
+template: {3BAA73E5-6BA9-4462-BF72-C106F8801B11}
+templatekey: Sublayout Folder
+

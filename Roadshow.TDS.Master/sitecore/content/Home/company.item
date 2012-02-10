@@ -1,0 +1,152 @@
+----item----
+version: 1
+id: {F6CA4D62-1958-4D8E-9AB5-89991B5D81F5}
+database: master
+path: /sitecore/content/Home/company
+parent: {110D559F-DEA5-42EA-9C1C-8A5DF7E70EF9}
+name: company
+master: {037E0C7A-E7C8-4F26-87E6-311B050C3894}
+template: {8B997BBB-FF14-48C3-BCFE-1CF6B1CCF381}
+templatekey: Page
+
+----field----
+field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
+name: __Sortorder
+key: __sortorder
+content-length: 3
+
+700
+----field----
+field: {F6D8A61C-2F84-4401-BD24-52D2068172BC}
+name: __Originator
+key: __originator
+content-length: 0
+
+
+----field----
+field: {F1A1FE9E-A60C-4DDB-A3A0-BB5B29FE732E}
+name: __Renderings
+key: __renderings
+content-length: 2293
+
+<r xmlns:p="p" xmlns:s="s" p:p="1"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"><r uid="{BCB616AB-6F46-4710-95C6-9B85E81926DB}" p:before="r[@uid='{8C8B2B24-F626-4B26-84DA-39CB9DE3359C}']" s:cac="0" s:ds="/sitecore/content/Home/company/sidebar/marc-schneider" s:id="{4B9D3879-4D4B-4CA1-B819-4E1B7708F9F4}" s:par="" s:ph="/main/sidebar" s:vbd="0" s:vbdev="0" s:vbl="0" s:vbp="0" s:vbqs="0" s:vbu="0" /><r uid="{8C8B2B24-F626-4B26-84DA-39CB9DE3359C}" p:before="r[@uid='{8E18C20E-D2DF-4EF2-8301-2FC70213662C}']" s:cac="0" s:ds="/sitecore/content/Home/company/sidebar/rich-text" s:id="{0C2F452F-9829-40FF-BAA6-F4AAED132D1E}" s:par="" s:ph="/main/sidebar" s:vbd="0" s:vbdev="0" s:vbl="0" s:vbp="0" s:vbqs="0" s:vbu="0" /><r uid="{8E18C20E-D2DF-4EF2-8301-2FC70213662C}" p:before="r[@uid='{C0B0CE92-6A89-4599-B6D9-267CB6C032BB}']" s:cac="0" s:ds="/sitecore/content/Global/Contacts/David-Stoeger" s:id="{4B9D3879-4D4B-4CA1-B819-4E1B7708F9F4}" s:par="" s:ph="/main/sidebar" s:vbd="0" s:vbdev="0" s:vbl="0" s:vbp="0" s:vbqs="0" s:vbu="0" /><r uid="{C0B0CE92-6A89-4599-B6D9-267CB6C032BB}" p:before="r[@uid='{12A3E8A7-EAB9-4477-B16D-36979CFFF7B3}']" s:ds="/sitecore/content/Home/company" s:id="{585AF632-6432-4E2E-AC60-45364258BE4E}" s:ph="/main/middlecolumn"><rls><ruleset><rule uid="{7DEA83E9-079D-45F1-BB5A-C3E30CC867B2}" s:name="Brochure Requested"><conditions><condition uid="6E551E9634F4470780ADE3B7243588D5" s:id="{4D290FF3-1587-4FEE-AB37-88768766A9D9}" s:GoalId="{968897F1-328A-489D-88E8-BE78F4370958}" /></conditions><actions><action uid="405E9FA577DD422DA3C86BB157AC783D" s:id="{0F3C6BEC-E56B-4875-93D7-2846A75881D2}" s:DataSource="{98CE1571-05C4-4E7B-8F7B-210318591865}" /></actions></rule><rule uid="{00000000-0000-0000-0000-000000000000}" s:name="Default"><conditions><condition uid="FE3258AA01574583A58149BEB176B748" s:id="{4888ABBB-F17D-4485-B14B-842413F88732}" /></conditions><actions /></rule></ruleset></rls></r><r uid="{12A3E8A7-EAB9-4477-B16D-36979CFFF7B3}" p:before="r[@uid='{58EF2D10-6F86-4D2F-9E42-E62D053B8C62}']" s:ds="/sitecore/content/Home/company/content/image-list" s:id="{060EC704-FCE9-4CC0-A2D5-34D8DAA47F78}" s:ph="/main/middlecolumn" /><r uid="{248A96EE-8C59-423A-9C5D-EA11E3885F53}"><p:d /></r><r uid="{E96BB87F-A586-4553-83CC-056EDF8E9417}" p:before="*[1=2]" /></d></r>
+----field----
+field: {A4F985D9-98B3-4B52-AAAF-4344F6E747C6}
+name: __Workflow
+key: __workflow
+content-length: 38
+
+{A5BC37E7-ED96-4C1E-8590-A26E64DB55EA}
+----version----
+language: en
+version: 1
+revision: c4f6f5da-bd6a-4e3f-bff4-c96cee7c0cc4
+
+----field----
+field: {7C1474A2-AF56-4E94-A1DE-AD46442DA8E6}
+name: Navigation Title
+key: navigation title
+content-length: 7
+
+Company
+----field----
+field: {9BE8BDCF-2F09-4912-ABE0-9214770ACEB4}
+name: Headline
+key: headline
+content-length: 19
+
+Company Information
+----field----
+field: {B1AE1B2C-8980-46D6-84C3-B390B792F13B}
+name: Teaser Text
+key: teaser text
+content-length: 503
+
+Sitecore ist ein weltweit führender Anbieter .NET-basierender Content-Management-Lösungen. Mehr als 2.500 internationale Kunden setzen die Software ein, um Portale, Websites, Intranets, eCommerce-Angebote und Online-Kampagnen besonders dynamisch und erfolgsorientiert zu gestalten. Dafür stehen neben den kommerziellen Basis-Produkten über 150 kostenlose Zusatzmodule zur Verfügung. Das Angebot ergänzender Lösungen wächst durch die bereits 4.500 Entwickler-große Shared-Source-Community kontinuierlich.
+----field----
+field: {2F36D3C0-F301-43BF-86F6-75FAB1E25E7F}
+name: Description
+key: description
+content-length: 6169
+
+<p style="z-index: 0; text-align: left; padding-bottom: 10px; line-height: 19px;  widows: 2; text-transform: none; background-color: rgb(255,255,255); font-variant: normal; font-style: normal; margin: 0px 0px 10px; padding-left: 0px; outline-width: 0px; padding-right: 10px; white-space: normal; orphans: 2;   letter-spacing: normal; color: rgb(66,66,66); font-size: 12px; vertical-align: baseline;  font-weight: normal; word-spacing: 0px; padding-top: 0px; border-image: initial; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;border-width: 0px;"><strong>Individualisierung statt Massenkommunikation&nbsp;</strong></p>
+<p style="z-index: 0; text-align: left; padding-bottom: 10px; line-height: 19px;  widows: 2; text-transform: none; background-color: rgb(255,255,255); font-variant: normal; font-style: normal; margin: 0px 0px 10px; padding-left: 0px; outline-width: 0px; padding-right: 10px; white-space: normal; orphans: 2;   letter-spacing: normal; color: rgb(66,66,66); font-size: 12px; vertical-align: baseline;  font-weight: normal; word-spacing: 0px; padding-top: 0px; border-image: initial; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;border-width: 0px;">Moderne WCM-L&ouml;sungen m&uuml;ssen sich an die st&auml;ndigen Ver&auml;nderungen, die f&uuml;r das Marketing typisch sind, anpassen. So wandert der Fokus aktuell und in den n&auml;chsten Jahren zunehmend vom Massenmarketing zum individuellen Dialog. In Bezug auf die Websites zeigt sich diese Entwicklung auf unterschiedliche Weise, beispielsweise dadurch, dass der User selbstst&auml;ndig sein eigenes Profil anpassen kann, au&szlig;erdem durch personalisierte Websites, die Wiedererkennung der Identit&auml;t eines Users und die Anpassung an die Bed&uuml;rfnisse des Nutzers mithilfe von automatisierten Analysen des Benutzerverhaltens.</p>
+<p style="z-index: 0; text-align: left; padding-bottom: 10px; line-height: 19px;  widows: 2; text-transform: none; background-color: rgb(255,255,255); font-variant: normal; font-style: normal; margin: 0px 0px 10px; padding-left: 0px; outline-width: 0px; padding-right: 10px; white-space: normal; orphans: 2;   letter-spacing: normal; color: rgb(66,66,66); font-size: 12px; vertical-align: baseline;  font-weight: normal; word-spacing: 0px; padding-top: 0px; border-image: initial; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;border-width: 0px;">Zudem suchen Unternehmen zunehmend nach &uuml;bergreifenden L&ouml;sungen, die auch E-Mail-Marketing, Kampagnen Management, Marketing-Analysen, E-Commerce und Website-Analyse umfassen.</p>
+<p style="z-index: 0; text-align: left; padding-bottom: 10px; line-height: 19px;  widows: 2; text-transform: none; background-color: rgb(255,255,255); font-variant: normal; font-style: normal; margin: 0px 0px 10px; padding-left: 0px; outline-width: 0px; padding-right: 10px; white-space: normal; orphans: 2;   letter-spacing: normal; color: rgb(66,66,66); font-size: 12px; vertical-align: baseline;  font-weight: normal; word-spacing: 0px; padding-top: 0px; border-image: initial; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;border-width: 0px;"><strong>Klare strategische Ausrichtung</strong></p>
+<p style="z-index: 0; text-align: left; padding-bottom: 10px; line-height: 19px;  widows: 2; text-transform: none; background-color: rgb(255,255,255); font-variant: normal; font-style: normal; margin: 0px 0px 10px; padding-left: 0px; outline-width: 0px; padding-right: 10px; white-space: normal; orphans: 2;   letter-spacing: normal; color: rgb(66,66,66); font-size: 12px; vertical-align: baseline;  font-weight: normal; word-spacing: 0px; padding-top: 0px; border-image: initial; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;border-width: 0px;">Sitecore wurde 2001 gegr&uuml;ndet und ist seitdem organisch stetig gewachsen. Das Unternehmen ist profitabel und hat sein Wachstum selbst finanziert.</p>
+<p style="z-index: 0; text-align: left; padding-bottom: 10px; line-height: 19px;  widows: 2; text-transform: none; background-color: rgb(255,255,255); font-variant: normal; font-style: normal; margin: 0px 0px 10px; padding-left: 0px; outline-width: 0px; padding-right: 10px; white-space: normal; orphans: 2;   letter-spacing: normal; color: rgb(66,66,66); font-size: 12px; vertical-align: baseline;  font-weight: normal; word-spacing: 0px; padding-top: 0px; border-image: initial; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;border-width: 0px;">Der Erfolg von Sitecore liegt in drei strategischen Entscheidungen begr&uuml;ndet, die schon w&auml;hrend der Gr&uuml;ndung getroffen wurden:</p>
+<ol style="z-index: 0; text-align: left; padding-bottom: 0px; line-height: 19px;  widows: 2; text-transform: none; background-color: rgb(255,255,255); list-style-type: none; font-variant: normal; font-style: normal; margin: 0px; padding-left: 0px; outline-width: 0px; padding-right: 0px; white-space: normal; orphans: 2;   letter-spacing: normal; color: rgb(66,66,66); font-size: 12px; vertical-align: baseline;  font-weight: normal; word-spacing: 0px; padding-top: 0px; border-image: initial; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;border-width: 0px;">
+    <li style="z-index: 0; padding-bottom: 0px;  margin: 0px; padding-left: 0px; outline-width: 0px; padding-right: 0px;   font-size: 12px; vertical-align: baseline;  padding-top: 0px; border-image: initial;border-width: 0px;">Sitecore ist ein reines Software-Unternehmen. Services werden von einem kompetenten Partnernetzwerk realisiert.</li>
+    <li style="z-index: 0; padding-bottom: 0px;  margin: 0px; padding-left: 0px; outline-width: 0px; padding-right: 0px;   font-size: 12px; vertical-align: baseline;  padding-top: 0px; border-image: initial;border-width: 0px;">Die technische Entwicklung von Sitecore basiert auf der Microsoft&rsquo;s .NET-Plattform.</li>
+    <li style="z-index: 0; padding-bottom: 0px;  margin: 0px; padding-left: 0px; outline-width: 0px; padding-right: 0px;   font-size: 12px; vertical-align: baseline;  padding-top: 0px; border-image: initial;border-width: 0px;">Sitecore denkt und agiert global.</li>
+</ol>
+----field----
+field: {BD055DA9-D871-4B74-8D6A-26A9A269A4EE}
+name: Image
+key: image
+content-length: 136
+
+<image mediaid="{08AB1EBF-448E-466E-832A-01952F291510}" mediapath="/Images/Header/Sitecore" src="~/media/Images/Header/Sitecore.ashx" />
+----field----
+field: {DEFE0FA6-E636-4F12-8275-9E1710F5C931}
+name: Browser Title
+key: browser title
+content-length: 7
+
+Company
+----field----
+field: {4BAB50CD-E41A-493C-A1BB-238B9E44AD72}
+name: Meta Description
+key: meta description
+content-length: 19
+
+Company Information
+----field----
+field: {9E0926A4-EC01-450B-A80D-68B67299AD9A}
+name: Meta Keywords
+key: meta keywords
+content-length: 27
+
+Company, Sitecore, Roadshow
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 15
+
+20120116T102800
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+c4f6f5da-bd6a-4e3f-bff4-c96cee7c0cc4
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 34
+
+20120209T115049:634643850499831643
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{FCA998C5-0CC3-4F91-94D8-0A4E6CAECE88}
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />
