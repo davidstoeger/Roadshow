@@ -1,0 +1,44 @@
+----item----
+version: 1
+id: {CC683D08-CCDE-4B2F-9A7D-833DD04D01D8}
+database: master
+path: /sitecore/layout/Sublayouts/Global/Home
+parent: {459D2ED6-C1EA-40E6-8C6F-5CFE3CBCF3CA}
+name: Home
+master: {00000000-0000-0000-0000-000000000000}
+template: {3BAA73E5-6BA9-4462-BF72-C106F8801B11}
+templatekey: Sublayout Folder
+
+----version----
+language: en
+version: 1
+revision: a06a703a-5f31-4993-abec-dc842bdc08e2
+
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 15
+
+20111123T141800
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+a06a703a-5f31-4993-abec-dc842bdc08e2
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 34
+
+20111123T141800:634576546805727401
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

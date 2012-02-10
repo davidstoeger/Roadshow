@@ -1,0 +1,157 @@
+----item----
+version: 1
+id: {7C7CC997-E6B6-4E52-A5CE-27A1263C8D5B}
+database: master
+path: /sitecore/media library/Images/Thumbnails/News
+parent: {5321C338-A776-4F2A-A541-DF75C5D9A3A1}
+name: News
+master: {00000000-0000-0000-0000-000000000000}
+template: {F1828A2C-7E5D-4BBD-98CA-320474871548}
+templatekey: Image
+
+----field----
+field: {40E50ED9-BA07-4702-992E-A912738D32DC}
+name: Blob
+key: blob
+content-length: 4466
+
+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
+KW5JAAAAAElFTkSuQmCC
+----field----
+field: {22EAC599-F13B-4607-A89D-C091763A467D}
+name: Width
+key: width
+content-length: 3
+
+128
+----field----
+field: {DE2CA9E4-C117-4C8A-A139-1FF4B199D15A}
+name: Height
+key: height
+content-length: 3
+
+128
+----field----
+field: {C06867FE-9A43-4C7D-B739-48780492D06F}
+name: Extension
+key: extension
+content-length: 3
+
+png
+----field----
+field: {6F47A0A5-9C94-4B48-ABEB-42D38DEF6054}
+name: Mime Type
+key: mime type
+content-length: 9
+
+image/png
+----field----
+field: {6954B7C7-2487-423F-8600-436CB3B6DC0E}
+name: Size
+key: size
+content-length: 4
+
+3264
+----field----
+field: {CB09946F-3218-4823-87D2-D5007C199A96}
+name: Dimensions
+key: dimensions
+content-length: 9
+
+128 x 128
+----field----
+field: {06D5295C-ED2F-4A54-9BF2-26228D113318}
+name: __Icon
+key: __icon
+content-length: 61
+
+-/media/7C7CC997E6B64E52A5CE27A1263C8D5B.ashx?h=16&thn=1&w=16
+----version----
+language: en
+version: 1
+revision: 1fb18568-38a5-43ed-8982-298120bab312
+
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 15
+
+20120209T085043
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+1fb18568-38a5-43ed-8982-298120bab312
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 34
+
+20120209T085043:634643742436276890
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

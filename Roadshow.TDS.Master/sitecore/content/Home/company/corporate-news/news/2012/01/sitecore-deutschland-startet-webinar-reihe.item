@@ -1,0 +1,134 @@
+----item----
+version: 1
+id: {E9075CD2-EB21-4709-ACC3-ABF9471A02C1}
+database: master
+path: /sitecore/content/Home/company/corporate-news/news/2012/01/sitecore-deutschland-startet-webinar-reihe
+parent: {856EB5B2-32C2-4067-B322-E024362C2233}
+name: sitecore-deutschland-startet-webinar-reihe
+master: {00000000-0000-0000-0000-000000000000}
+template: {1C8317CF-2020-4080-A93B-BCFCED961AF6}
+templatekey: News Item
+
+----field----
+field: {F1A1FE9E-A60C-4DDB-A3A0-BB5B29FE732E}
+name: __Renderings
+key: __renderings
+content-length: 37
+
+<r xmlns:p="p" xmlns:s="s" p:p="1" />
+----field----
+field: {A4F985D9-98B3-4B52-AAAF-4344F6E747C6}
+name: __Workflow
+key: __workflow
+content-length: 38
+
+{A5BC37E7-ED96-4C1E-8590-A26E64DB55EA}
+----version----
+language: en
+version: 1
+revision: 782d42f8-03b6-49bd-bdb9-b29afb398a6c
+
+----field----
+field: {3279F2CE-5D4E-4DFF-9592-4CAA35DF7962}
+name: Location
+key: location
+content-length: 6
+
+Bremen
+----field----
+field: {7C1474A2-AF56-4E94-A1DE-AD46442DA8E6}
+name: Navigation Title
+key: navigation title
+content-length: 42
+
+sitecore-deutschland-startet-webinar-reihe
+----field----
+field: {9BE8BDCF-2F09-4912-ABE0-9214770ACEB4}
+name: Headline
+key: headline
+content-length: 52
+
+Sitecore startet eine deutschsprachige Webinar-Reihe
+----field----
+field: {211D8AF3-C4E2-4BFD-90E5-2EFC599EC9DB}
+name: Publish Date
+key: publish date
+content-length: 15
+
+20120127T202526
+----field----
+field: {B1AE1B2C-8980-46D6-84C3-B390B792F13B}
+name: Teaser Text
+key: teaser text
+content-length: 42
+
+In wenigen Schritten erfolgreicher im Web!
+----field----
+field: {2F36D3C0-F301-43BF-86F6-75FAB1E25E7F}
+name: Description
+key: description
+content-length: 4578
+
+<p style="line-height: 12.75pt; margin: 0cm 0cm 10pt;">Viele unserer Kunden und Partner haben mit unseren in 2011 vorgestellten Innovationen einen deutlichen Sprung nach vorne gemacht. Marketing-Manager k&ouml;nnen ihren Vorgesetzten pl&ouml;tzlich echte Erfolgszahlen aus allen digitalen Kan&auml;len vorlegen. Sie liefern Ihren Vertriebskollegen erstmals fundierte Profile von Interessenten der Website und spielen diese direkt ins CRM ein. Redakteure machen statische Websites durch Personalisierung in wenigen Klicks dynamischer, relevanter und erfolgreicher. Social Content, Bewegtbild und Vernetzung kurbeln in Online-Shops den up- und cross-sell an.</p>
+<p style="line-height: 12.75pt; margin: 0cm 0cm 10pt;">Und das sind keine leeren Marketing-Versprechen. Auch Sie k&ouml;nnen in wenigen Schritten erstaunliche Erfolge erzielen und besser dar&uuml;ber berichten.</p>
+<p style="line-height: 12.75pt; margin: 0cm 0cm 10pt;">Wir zeigen Ihnen in je 60 kurzweiligen Minuten, wie andere Kunden mit &uuml;berschaubarem Einsatz deutlich erfolgreicher geworden sind. Hier die Themen unserer Webinar-Reihe:</p>
+<p style="line-height: 12.75pt; margin: 0cm 0cm 10pt;"><b>Erfolgreichere &nbsp;Kampagnen</b>: Bringen Sie Ihre Marketingaktivit&auml;ten gezielt auf Ihrer Website zusammen und nutzen Sie neueste Automatismen und Metriken, um Erfolge zu messen und zu steigern. Unser modulares Digital Marketing System bietet Ihnen daf&uuml;r die richtigen Tools.<br />
+<a href="http://www.sitecore.net/deutsch/landing/germany/dmswebinar?sc_camp=C57FBAC2EFB945C58D2D401528FDC7D9">jetzt anmelden! </a></p>
+<p style="line-height: 12.75pt; margin: 0cm 0cm 10pt;"><b>Mobil bestens ger&uuml;stet:</b> Warum Nutzer von iPad, iPhone, Blackberry &amp; Co. vergraulen? Sitecore passt Webseiten automatisch im Hintergrund an. Sie k&ouml;nnen zudem auf&nbsp; die speziellen Anforderungen beim mobilen Zugriff eingehen und reduzierte Landingpages und Formulare oder auch Gutscheine, Gewinnspiele, lokale Services und vieles mehr anbieten - alles mit wenigen Klicks eingerichtet.<br />
+<a href="http://www.sitecore.net/deutsch/landing/germany/mobilewebinar?sc_camp=C57FBAC2EFB945C58D2D401528FDC7D9">jetzt anmelden! </a></p>
+<p style="line-height: 12.75pt; margin: 0cm 0cm 10pt;"><b>Besser im Web verkaufen:</b> Schaffen Sie ein personalisiertes Usererlebnis, das Interessenten zu K&auml;ufern macht und K&auml;ufer wiederkehren l&auml;sst. Verbinden Sie Geo-Tracking und Profildaten, um die passendes Produkte zu bieten. Steigern Sie das Up-Selling- und Cross-Selling-Potential Ihres Shops oder Ihrer Website.<br />
+<a href="http://www.sitecore.net/deutsch/landing/germany/ecommercewebinar?sc_camp=C57FBAC2EFB945C58D2D401528FDC7D9">jetzt anmelden! </a></p>
+<p style="line-height: 12.75pt; margin: 0cm 0cm 10pt;"><strong>Digitale Marketing-Kan&auml;le besser nutzen:</strong> Sehen Sie, was gut funktioniert und was verbessert werden kann. Das Marketing muss heute viele Kan&auml;le bespielen, um die maximale Reichweite zu entfalten. Nur wenn Websites, mobile Websites, Social Medial-Angebote, E-Mail-Kampagnen, SEO und SEM eng verzahnt sind, ist digitales Marketing nachhaltig und erfolgreich. <a href="http://www.sitecore.net/deutsch/landing/germany/engagementwebinar?sc_camp=C57FBAC2EFB945C58D2D401528FDC7D9">Jetzt anmelden!</a><br />
+<br />
+Bitte leiten Sie diese Einladung doch auch an Kollegen/innen weiter, die daran Interesse haben k&ouml;nnten.</p>
+<p style="line-height: 12.75pt; margin: 0cm 0cm 10pt;">&nbsp;</p>
+<p style="line-height: 12.75pt; margin: 0cm 0cm 10pt;"><b>Wir stehen Ihnen f&uuml;r alle Themen auf der CeBIT auch pers&ouml;nlich zur Verf&uuml;gung.</b> </p>
+<p style="line-height: 12.75pt; margin: 0cm 0cm 10pt;">Sie finden uns und unsere Partner netzkern, ecomplexx und comspace in Halle 6 am Stand J30.</p>
+<p style="line-height: 12.75pt; margin: 0cm 0cm 10pt;">M&ouml;chten Sie einen Termin vereinbaren? Gerne senden wir Ihnen kostenfrei eine Eintrittskarte zu.&nbsp;<a href="http://www.sitecore.net/deutsch/landing/germany/CeBIT_2012?sc_camp=C57FBAC2EFB945C58D2D401528FDC7D9">Jetzt anmelden!</a></p>
+<p style="line-height: 12.75pt; margin: 0cm 0cm 10pt;">Sollten Sie noch weitere Fragen haben, stehen wir Ihnen sehr gerne zur Verf&uuml;gung!&nbsp;</p>
+<p style="line-height: 12.75pt;">Mit freundlichen Gr&uuml;&szlig;en,<br />
+<br />
+Ihr Sitecore Team</p>
+<p style="line-height: 12.75pt;"><a href="http://www.sitecore.net/sitecore/RedirectUrlPage.aspx?link=http://www.sitecore.de&amp;sc_camp=C57FBAC2EFB945C58D2D401528FDC7D9">www.sitecore.de</a></p>
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 15
+
+20120127T202526
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+782d42f8-03b6-49bd-bdb9-b29afb398a6c
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 34
+
+20120127T202920:634632929600638595
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{FCA998C5-0CC3-4F91-94D8-0A4E6CAECE88}
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

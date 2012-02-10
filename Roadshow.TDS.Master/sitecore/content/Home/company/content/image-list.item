@@ -1,0 +1,58 @@
+----item----
+version: 1
+id: {B61FFDF9-C168-4B3D-942B-D15D1D3877A7}
+database: master
+path: /sitecore/content/Home/company/content/image-list
+parent: {EB497532-EAB2-447D-9891-05CB31FE2214}
+name: image-list
+master: {00000000-0000-0000-0000-000000000000}
+template: {F930DD61-41CE-4B59-8809-8C693F776694}
+templatekey: Image List
+
+----version----
+language: en
+version: 1
+revision: 9f73c0a9-1cb6-4183-b64c-406ee7c850dd
+
+----field----
+field: {A6801743-3B17-4CB2-ACB1-3C53F7AD6C1F}
+name: Headline
+key: headline
+content-length: 15
+
+Sitecore Images
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 15
+
+20120125T163204
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+9f73c0a9-1cb6-4183-b64c-406ee7c850dd
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 34
+
+20120125T163317:634631059974553205
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

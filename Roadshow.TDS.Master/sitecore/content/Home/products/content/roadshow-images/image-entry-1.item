@@ -1,0 +1,72 @@
+----item----
+version: 1
+id: {15A031C5-1352-455B-A8A3-BE72F1EC6C38}
+database: master
+path: /sitecore/content/Home/products/content/roadshow-images/image-entry-1
+parent: {2C33F51D-2845-4692-94A4-97D3EDA835E0}
+name: image-entry-1
+master: {DD6CB383-8B44-4CC0-959E-3350C13AB2D3}
+template: {D7B09B91-C0B8-4313-AB6D-E7644177B592}
+templatekey: Image Entry
+
+----field----
+field: {F6D8A61C-2F84-4401-BD24-52D2068172BC}
+name: __Originator
+key: __originator
+content-length: 0
+
+
+----version----
+language: en
+version: 1
+revision: f0b4c5ef-4244-4219-adc5-4310a082353f
+
+----field----
+field: {82158B08-BD71-42DE-A778-D1B905AC4FC5}
+name: Image
+key: image
+content-length: 144
+
+<image mediaid="{40F67DED-DF08-48FB-BBC5-33A2230FA880}" mediapath="/Images/Teaser/developer_bg" src="-/media/Images/Teaser/developer_bg.ashx" />
+----field----
+field: {1B4EE1AA-37C7-4CFC-A54B-31E23444B239}
+name: Image Description
+key: image description
+content-length: 15
+
+Entwickler-Foto
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 15
+
+20120203T094302
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+f0b4c5ef-4244-4219-adc5-4310a082353f
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 34
+
+20120203T094345:634638590256510666
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />
