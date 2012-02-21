@@ -96,6 +96,7 @@
     <Content Include="sublayouts\Global\Framework\TopNavigation.ascx" />
     <Content Include="sublayouts\Global\Home\QuickLinks.ascx" />
     <Content Include="sublayouts\Global\Home\Start.ascx" />
+    <Content Include="sublayouts\Global\Home\StartWithBigTeaser.ascx" />
     <Content Include="sublayouts\Global\Home\Teaser.ascx" />
     <Content Include="sublayouts\Global\News\NewsInformation.ascx" />
     <Content Include="sublayouts\SideBarModules\Contact\ContactBox.ascx" />
@@ -223,6 +224,13 @@
     </Compile>
     <Compile Include="sublayouts\Global\Home\Start.ascx.designer.cs">
       <DependentUpon>Start.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="sublayouts\Global\Home\StartWithBigTeaser.ascx.cs">
+      <DependentUpon>StartWithBigTeaser.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="sublayouts\Global\Home\StartWithBigTeaser.ascx.designer.cs">
+      <DependentUpon>StartWithBigTeaser.ascx</DependentUpon>
     </Compile>
     <Compile Include="sublayouts\Global\Home\Teaser.ascx.cs">
       <DependentUpon>Teaser.ascx</DependentUpon>
