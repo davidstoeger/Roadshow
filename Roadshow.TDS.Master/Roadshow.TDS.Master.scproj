@@ -578,7 +578,17 @@
       <ItemDeployment>AlwaysUpdate</ItemDeployment>
       <ChildItemSynchronization>KeepAllChildrenSynchronized</ChildItemSynchronization>
     </SitecoreItem>
+    <SitecoreItem Include="sitecore\layout\Placeholder Settings\bigteaser.item">
+      <Icon>/temp/IconCache/Business/16x16/table_selection_block.png</Icon>
+      <ChildItemSynchronization>KeepAllChildrenSynchronized</ChildItemSynchronization>
+      <ItemDeployment>AlwaysUpdate</ItemDeployment>
+    </SitecoreItem>
     <SitecoreItem Include="sitecore\layout\Placeholder Settings\MiddleColumn.item">
+      <Icon>/temp/IconCache/Business/16x16/table_selection_block.png</Icon>
+      <ChildItemSynchronization>KeepAllChildrenSynchronized</ChildItemSynchronization>
+      <ItemDeployment>AlwaysUpdate</ItemDeployment>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\layout\Placeholder Settings\modules.item">
       <Icon>/temp/IconCache/Business/16x16/table_selection_block.png</Icon>
       <ChildItemSynchronization>KeepAllChildrenSynchronized</ChildItemSynchronization>
       <ItemDeployment>AlwaysUpdate</ItemDeployment>
@@ -855,6 +865,11 @@
     </SitecoreItem>
     <SitecoreItem Include="sitecore\media library\Images\Image Lists\header-img-1.item">
       <Icon>/sitecore/shell/themes/standard/~/media/50013010AB404855B416FDF3380A979C.ashx?h=16&amp;thn=1&amp;w=16&amp;db=master</Icon>
+      <ChildItemSynchronization>KeepAllChildrenSynchronized</ChildItemSynchronization>
+      <ItemDeployment>AlwaysUpdate</ItemDeployment>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\media library\Images\Mood.item">
+      <Icon>/temp/IconCache/Applications/16x16/folder.png</Icon>
       <ChildItemSynchronization>KeepAllChildrenSynchronized</ChildItemSynchronization>
       <ItemDeployment>AlwaysUpdate</ItemDeployment>
     </SitecoreItem>
@@ -1210,6 +1225,16 @@
     </SitecoreItem>
     <SitecoreItem Include="sitecore\templates\User Defined\Global\Home\Home Page.item">
       <Icon>/temp/IconCache/Network/32x32/home.png</Icon>
+      <ChildItemSynchronization>KeepAllChildrenSynchronized</ChildItemSynchronization>
+      <ItemDeployment>AlwaysUpdate</ItemDeployment>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\templates\User Defined\Global\Home\Home Page\Content.item">
+      <Icon>/temp/IconCache/Applications/32x32/Document.png</Icon>
+      <ChildItemSynchronization>KeepAllChildrenSynchronized</ChildItemSynchronization>
+      <ItemDeployment>AlwaysUpdate</ItemDeployment>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\templates\User Defined\Global\Home\Home Page\Content\Mood.item">
+      <Icon>/temp/IconCache/Applications/32x32/Document.png</Icon>
       <ChildItemSynchronization>KeepAllChildrenSynchronized</ChildItemSynchronization>
       <ItemDeployment>AlwaysUpdate</ItemDeployment>
     </SitecoreItem>
