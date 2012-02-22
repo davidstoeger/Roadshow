@@ -12,7 +12,7 @@ templatekey: Teaser
 ----version----
 language: en
 version: 1
-revision: 481b77fb-970b-4407-8413-aa03e31a673d
+revision: 85e1725d-e446-421c-9b96-f99b28f0fa4d
 
 ----field----
 field: {15BC2000-8343-478B-A178-5C2B808EDA71}
@@ -25,9 +25,9 @@ Our X-Mas Special!
 field: {A288D715-E98D-4CC6-8CCD-ACB71B8EF278}
 name: Image
 key: image
-content-length: 174
+content-length: 181
 
-<image mediaid="{CE4EE71D-A632-4191-A4C5-D17590751DF6}" mediapath="/Images/Teaser/Teaser_Xmas_11_rdax_180x150" src="~/media/Images/Teaser/Teaser_Xmas_11_rdax_180x150.ashx" />
+<image mediaid="{CE4EE71D-A632-4191-A4C5-D17590751DF6}" mediapath="/Images/Teaser/Teaser_Xmas_11_rdax_180x150" src="~/media/Images/Teaser/Teaser_Xmas_11_rdax_180x150.ashx" ></image>
 ----field----
 field: {26C230B1-BE05-4057-9542-CCDF012E8573}
 name: Text
@@ -69,14 +69,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-481b77fb-970b-4407-8413-aa03e31a673d
+85e1725d-e446-421c-9b96-f99b28f0fa4d
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 34
 
-20120116T095342:634623044226255099
+20120221T124016:634654248165711897
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

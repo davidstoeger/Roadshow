@@ -10,16 +10,30 @@ template: {0A98E368-CDB9-4E1E-927C-8E0C24A003FB}
 templatekey: Sublayout
 
 ----field----
+field: {462A3406-2182-4134-8484-FDC3DD0326DD}
+name: Open Properties after Add
+key: open properties after add
+content-length: 1
+
+-
+----field----
 field: {E42081B6-8A95-4A11-89CE-DF70ED502F57}
 name: Path
 key: path
 content-length: 47
 
 /sublayouts/Global/Home/StartWithBigTeaser.ascx
+----field----
+field: {E441ABE7-2CA3-4640-AE26-3789967925D7}
+name: Compatible Renderings
+key: compatible renderings
+content-length: 0
+
+
 ----version----
 language: en
 version: 1
-revision: 697e2f03-7b02-4431-9f12-46639bee66d9
+revision: 94130bbc-e387-4227-9eda-0be12705d8ce
 
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
@@ -41,14 +55,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-697e2f03-7b02-4431-9f12-46639bee66d9
+94130bbc-e387-4227-9eda-0be12705d8ce
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 34
 
-20120221T114658:634654216184152602
+20120221T115332:634654220122086356
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
