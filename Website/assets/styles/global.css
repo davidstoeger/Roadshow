@@ -286,3 +286,14 @@ ul li a.news-entry
     background: url('/assets/media/images/round_marker_red_ltr.jpg') no-repeat scroll left 2px transparent;
     padding: 0 10px 0 15px;
 }
+.startModules .module
+{
+    clear: none !important;
+    float: left !important; 
+    width:250px;
+}
+.collmod {
+	float:left;
+	width:100%;				/* width of page */
+	position:relative;
+}

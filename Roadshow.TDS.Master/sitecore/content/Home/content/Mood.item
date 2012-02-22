@@ -1,0 +1,65 @@
+----item----
+version: 1
+id: {2F3F8D70-BFD8-46D5-820C-8F869EAD4478}
+database: master
+path: /sitecore/content/Home/content/Mood
+parent: {E1426FEA-CAC1-4795-93D4-D44FF7F4E15C}
+name: Mood
+master: {00000000-0000-0000-0000-000000000000}
+template: {337424B4-CEB7-49EB-8857-AEFBE334E824}
+templatekey: Mood
+
+----version----
+language: en
+version: 1
+revision: c7a53e6b-9811-4f5e-b4b9-fc405a983db4
+
+----field----
+field: {85BD26A0-EFA8-4C6A-9D77-5342E0DAF563}
+name: Mood Image
+key: mood image
+content-length: 126
+
+<image mediaid="{6B1E51CC-6B1C-43B1-8521-797978F400DA}" mediapath="/Images/Mood/mood1" src="-/media/Images/Mood/mood1.ashx" />
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 15
+
+20120222T101300
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+c7a53e6b-9811-4f5e-b4b9-fc405a983db4
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 34
+
+20120222T101403:634655024434220314
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
