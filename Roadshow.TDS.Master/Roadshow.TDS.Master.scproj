@@ -25,8 +25,8 @@
     <DebugSymbols>true</DebugSymbols>
     <OutputPath>.\Debug\</OutputPath>
     <RecursiveDeployAction>Ignore</RecursiveDeployAction>
-    <SitecoreDeployFolder>C:\inetpub\wwwroot\roadshow.local.com\Website</SitecoreDeployFolder>
-    <SitecoreWebUrl>http://roadshow.local.com</SitecoreWebUrl>
+    <SitecoreDeployFolder>C:\Projects\Roadshows\Roadshow-1\roadshow-1-650x111230\Website</SitecoreDeployFolder>
+    <SitecoreWebUrl>http://roadshow-1.local.com</SitecoreWebUrl>
     <SitecoreAccessGuid>4e49e6e0-fdbe-4fbb-814a-3c8b4f5ca93d</SitecoreAccessGuid>
     <InstallSitecoreConnector>True</InstallSitecoreConnector>
   </PropertyGroup>
@@ -359,6 +359,36 @@
       <ChildItemSynchronization>KeepAllChildrenSynchronized</ChildItemSynchronization>
       <ItemDeployment>AlwaysUpdate</ItemDeployment>
     </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Home\products\customer-engagement-platform.item">
+      <Icon>/temp/IconCache/Applications/32x32/document_plain_green.png</Icon>
+      <ChildItemSynchronization>KeepAllChildrenSynchronized</ChildItemSynchronization>
+      <ItemDeployment>AlwaysUpdate</ItemDeployment>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Home\products\customer-engagement-platform\content.item">
+      <Icon>/temp/IconCache/Applications/32x32/folder_cubes.png</Icon>
+      <ChildItemSynchronization>KeepAllChildrenSynchronized</ChildItemSynchronization>
+      <ItemDeployment>AlwaysUpdate</ItemDeployment>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Home\products\customer-engagement-platform\sidebar.item">
+      <Icon>/temp/IconCache/Applications/32x32/folder_cubes.png</Icon>
+      <ChildItemSynchronization>KeepAllChildrenSynchronized</ChildItemSynchronization>
+      <ItemDeployment>AlwaysUpdate</ItemDeployment>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Home\products\e-mail-campaign-manager.item">
+      <Icon>/temp/IconCache/Applications/32x32/document_plain_green.png</Icon>
+      <ChildItemSynchronization>KeepAllChildrenSynchronized</ChildItemSynchronization>
+      <ItemDeployment>AlwaysUpdate</ItemDeployment>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Home\products\e-mail-campaign-manager\content.item">
+      <Icon>/temp/IconCache/Applications/32x32/folder_cubes.png</Icon>
+      <ChildItemSynchronization>KeepAllChildrenSynchronized</ChildItemSynchronization>
+      <ItemDeployment>AlwaysUpdate</ItemDeployment>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\content\Home\products\e-mail-campaign-manager\sidebar.item">
+      <Icon>/temp/IconCache/Applications/32x32/folder_cubes.png</Icon>
+      <ChildItemSynchronization>KeepAllChildrenSynchronized</ChildItemSynchronization>
+      <ItemDeployment>AlwaysUpdate</ItemDeployment>
+    </SitecoreItem>
     <SitecoreItem Include="sitecore\content\Home\products\Hybrids.item">
       <Icon>/temp/IconCache/Applications/32x32/document_plain_green.png</Icon>
       <ChildItemSynchronization>KeepAllChildrenSynchronized</ChildItemSynchronization>
@@ -572,6 +602,7 @@
     <SitecoreItem Include="sitecore\layout\Layouts\Default.item">
       <Icon>/temp/IconCache/Applications/32x32/window.png</Icon>
       <ItemDeployment>AlwaysUpdate</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
     </SitecoreItem>
     <SitecoreItem Include="sitecore\layout\Placeholder Settings.item">
       <Icon>/temp/IconCache/Applications/16x16/folder.png</Icon>
@@ -579,6 +610,11 @@
       <ChildItemSynchronization>KeepAllChildrenSynchronized</ChildItemSynchronization>
     </SitecoreItem>
     <SitecoreItem Include="sitecore\layout\Placeholder Settings\bigteaser.item">
+      <Icon>/temp/IconCache/Business/16x16/table_selection_block.png</Icon>
+      <ChildItemSynchronization>KeepAllChildrenSynchronized</ChildItemSynchronization>
+      <ItemDeployment>AlwaysUpdate</ItemDeployment>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\layout\Placeholder Settings\Main.item">
       <Icon>/temp/IconCache/Business/16x16/table_selection_block.png</Icon>
       <ChildItemSynchronization>KeepAllChildrenSynchronized</ChildItemSynchronization>
       <ItemDeployment>AlwaysUpdate</ItemDeployment>
@@ -744,7 +780,7 @@
       <ItemDeployment>AlwaysUpdate</ItemDeployment>
     </SitecoreItem>
     <SitecoreItem Include="sitecore\layout\Sublayouts\Global\News\News Information.item">
-      <Icon>/temp/IconCache/Software/16x16/element_selection.png</Icon>
+      <Icon>/temp/IconCache/Business/32x32/row.png</Icon>
       <ChildItemSynchronization>KeepAllChildrenSynchronized</ChildItemSynchronization>
       <ItemDeployment>AlwaysUpdate</ItemDeployment>
     </SitecoreItem>

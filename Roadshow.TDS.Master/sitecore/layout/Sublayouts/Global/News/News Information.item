@@ -41,16 +41,16 @@ content-length: 0
 field: {06D5295C-ED2F-4A54-9BF2-26228D113318}
 name: __Icon
 key: __icon
-content-length: 0
+content-length: 22
 
-
+Business/32x32/row.png
 ----field----
 field: {C7C26117-DBB1-42B2-AB5E-F7223845CCA3}
 name: __Thumbnail
 key: __thumbnail
-content-length: 136
+content-length: 191
 
-<image mediaid="{7C7CC997-E6B6-4E52-A5CE-27A1263C8D5B}" mediapath="/Images/Thumbnails/News" src="-/media/Images/Thumbnails/News.ashx" />
+<image mediaid="{0BB83467-7C12-44A5-BB38-EB2027D0717C}" mediapath="/System/4/B/9/D/thumbnail_4B9D38794D4B4CA1B8194E1B7708F9F4" src="/sublayouts/Global/Common/Page/BasePageInformation.ascx" />
 ----version----
 language: 
 version: 1
@@ -94,7 +94,7 @@ sitecore\admin
 ----version----
 language: en
 version: 1
-revision: a3aa9ef1-aa8e-40af-92ca-39e32e2a03f0
+revision: 69fbe7d3-fe09-4676-a8d9-5f7643557d6b
 
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
@@ -116,14 +116,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-a3aa9ef1-aa8e-40af-92ca-39e32e2a03f0
+69fbe7d3-fe09-4676-a8d9-5f7643557d6b
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 34
 
-20120209T085556:634643745568522015
+20120126T135742:634631830625460442
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

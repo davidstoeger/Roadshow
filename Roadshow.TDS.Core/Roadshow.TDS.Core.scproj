@@ -25,8 +25,8 @@
     <DebugSymbols>true</DebugSymbols>
     <OutputPath>.\Debug\</OutputPath>
     <RecursiveDeployAction>Ignore</RecursiveDeployAction>
-    <SitecoreDeployFolder>C:\inetpub\wwwroot\roadshow.local.com\Website</SitecoreDeployFolder>
-    <SitecoreWebUrl>http://roadshow.local.com</SitecoreWebUrl>
+    <SitecoreDeployFolder>C:\Projects\Roadshows\Roadshow-1\roadshow-1-650x111230\Website</SitecoreDeployFolder>
+    <SitecoreWebUrl>http://roadshow-1.local.com</SitecoreWebUrl>
     <SitecoreAccessGuid>24844276-9eb0-42fc-86f8-3ce6d932fb64</SitecoreAccessGuid>
     <InstallSitecoreConnector>True</InstallSitecoreConnector>
   </PropertyGroup>
