@@ -12,7 +12,7 @@ templatekey: Teaser
 ----version----
 language: en
 version: 1
-revision: 0abdb6e3-da57-4778-9875-22ecfa2efaaf
+revision: fe77eda0-bbbb-40e2-8622-d9ee072ffdfb
 
 ----field----
 field: {15BC2000-8343-478B-A178-5C2B808EDA71}
@@ -25,9 +25,9 @@ Für Entwickler
 field: {A288D715-E98D-4CC6-8CCD-ACB71B8EF278}
 name: Image
 key: image
-content-length: 144
+content-length: 151
 
-<image mediaid="{40F67DED-DF08-48FB-BBC5-33A2230FA880}" mediapath="/Images/Teaser/developer_bg" src="-/media/Images/Teaser/developer_bg.ashx" />
+<image mediaid="{40F67DED-DF08-48FB-BBC5-33A2230FA880}" mediapath="/Images/Teaser/developer_bg" src="-/media/Images/Teaser/developer_bg.ashx" ></image>
 ----field----
 field: {26C230B1-BE05-4057-9542-CCDF012E8573}
 name: Text
@@ -69,14 +69,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-0abdb6e3-da57-4778-9875-22ecfa2efaaf
+fe77eda0-bbbb-40e2-8622-d9ee072ffdfb
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 34
 
-20120127T214358:634632974383196710
+20120221T124016:634654248165911897
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

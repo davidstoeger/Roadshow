@@ -34,9 +34,9 @@ content-length: 0
 field: {F1A1FE9E-A60C-4DDB-A3A0-BB5B29FE732E}
 name: __Renderings
 key: __renderings
-content-length: 37
+content-length: 648
 
-<r xmlns:p="p" xmlns:s="s" p:p="1" />
+<r xmlns:p="p" xmlns:s="s" p:p="1"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"><r uid="{E7D05AD4-3110-41A8-B414-07A4DDA79B2A}" p:before="r[@uid='{E96BB87F-A586-4553-83CC-056EDF8E9417}']" s:id="{E54EA197-ECEB-41F9-AEF6-ED7CA5F77B8F}" s:ph="/main/middlecolumn" /><r uid="{E96BB87F-A586-4553-83CC-056EDF8E9417}"><rls><p:d /></rls></r><r uid="{8C7C663A-28AB-443F-9D6E-7D9E6A5F329A}"><p:d /></r></d><d id="{46D2F427-4CE5-4E1F-BA10-EF3636F43534}" p:before="d[@id='{73966209-F1B6-43CA-853A-F1DB1C9A654B}']" s:l="{75CC5CE4-8979-4008-9D3C-806477D57619}" /><d id="{73966209-F1B6-43CA-853A-F1DB1C9A654B}" s:l="{75CC5CE4-8979-4008-9D3C-806477D57619}" /></r>
 ----field----
 field: {A4F985D9-98B3-4B52-AAAF-4344F6E747C6}
 name: __Workflow
@@ -47,7 +47,7 @@ content-length: 38
 ----version----
 language: en
 version: 1
-revision: 7b43b9b3-ba81-4390-b7b4-582af2000906
+revision: 650495ab-d377-464d-ab24-a0570f38dc92
 
 ----field----
 field: {7C1474A2-AF56-4E94-A1DE-AD46442DA8E6}
@@ -67,16 +67,18 @@ Minivan
 field: {B1AE1B2C-8980-46D6-84C3-B390B792F13B}
 name: Teaser Text
 key: teaser text
-content-length: 106
+content-length: 39
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris congue vulputate erat hendrerit tincidunt.
+Kleinwagen mit optimaler Raumausnutzung
 ----field----
 field: {2F36D3C0-F301-43BF-86F6-75FAB1E25E7F}
 name: Description
 key: description
-content-length: 106
+content-length: 1270
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris congue vulputate erat hendrerit tincidunt.
+<p>Als Minivan werden heutzutage Kleinwagen mit einer m&ouml;glichst optimalen Raumausnutzung in Bezug auf die Fahrzeuggrundfl&auml;che bezeichnet. Urspr&uuml;nglich bezeichnete das Wort &bdquo;Minivan&ldquo; hingegen wie - im amerikanischen Sprachgebrauch auch heute noch - eine Gro&szlig;raumlimousine, von denen z. B. der Chrysler Voyager und der Renault Espace, die 4,5 bis immerhin &uuml;ber 5,0 m lang sein k&ouml;nnen, die typischsten Vertreter in Europa sind. <br />
+<br />
+Der Begriff Minivan leitet sich von &bdquo;Van&ldquo;, ferner auch von &bdquo;Kompaktvan&ldquo; und &bdquo;Microvan&ldquo; ab. Zu den Besonderheiten eines Minivans im Vergleich zu einem Kleinwagen z&auml;hlt ein h&ouml;heres Fahrzeugdach. Minivans sind besonders bei Handwerksbetrieben, zunehmend aber auch bei kinderreichen und reisefreudigen Familien beliebt. Wie &uuml;blich bei den Bezeichnungen von Fahrzeugarten gibt es auch hier Abgrenzungsprobleme zu verwandten Fahrzeugkategorien, insbesondere Kleinwagen oder auch der Kompaktklasse, da solche Begriffe gr&ouml;&szlig;tenteils von den Medien (darunter vor allem der Werbeindustrie) gepr&auml;gt werden. Minivans liegen in der Gr&ouml;&szlig;e zwischen 3,70 m und 4,10 m. Das Fahrzeugdach hat meist eine H&ouml;he ab 1,55 m.</p>
 ----field----
 field: {BD055DA9-D871-4B74-8D6A-26A9A269A4EE}
 name: Image
@@ -84,6 +86,20 @@ key: image
 content-length: 134
 
 <image mediaid="{4CA9390C-1774-4E71-A137-6015907146B1}" mediapath="/Images/Header/minivan" src="-/media/Images/Header/minivan.ashx" />
+----field----
+field: {8BE231AF-52D8-4DA1-B4C3-30893CBAAA38}
+name: Teaser Headline
+key: teaser headline
+content-length: 7
+
+Model B
+----field----
+field: {6E73186F-8795-4DA3-B917-451392ACF94F}
+name: Teaser Text
+key: teaser text
+content-length: 4
+
+Text
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
 name: __Created
@@ -97,14 +113,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-7b43b9b3-ba81-4390-b7b4-582af2000906
+650495ab-d377-464d-ab24-a0570f38dc92
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 34
 
-20120209T114917:634643849573359005
+20120222T121921:634655099610432168
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

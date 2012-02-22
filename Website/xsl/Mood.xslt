@@ -30,8 +30,9 @@
 <!-- main                                                         -->
 <!--==============================================================-->
 <xsl:template match="*" mode="main">
-  <div class="mood">  
-    <sc:image field="mood" mw="970"></sc:image>
+  <div class="mood">
+    <xsl:value-of select="$sc_currentitem"/>
+    <sc:image field="mood" select="$sc_currentitem" mw="970"></sc:image>
   </div>
      </xsl:template>
 
