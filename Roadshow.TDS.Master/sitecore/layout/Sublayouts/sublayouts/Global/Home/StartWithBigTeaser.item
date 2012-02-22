@@ -1,6 +1,6 @@
 ----item----
 version: 1
-id: {94174975-F2E1-4A91-AD31-CFA0D53D2E03}
+id: {F09C73DB-0C8A-4A15-8858-FEB537CD2A1E}
 database: master
 path: /sitecore/layout/Sublayouts/sublayouts/Global/Home/StartWithBigTeaser
 parent: {62FAE99B-719E-4363-B68C-66BE00FB4121}
@@ -10,16 +10,30 @@ template: {0A98E368-CDB9-4E1E-927C-8E0C24A003FB}
 templatekey: Sublayout
 
 ----field----
+field: {462A3406-2182-4134-8484-FDC3DD0326DD}
+name: Open Properties after Add
+key: open properties after add
+content-length: 1
+
+-
+----field----
 field: {E42081B6-8A95-4A11-89CE-DF70ED502F57}
 name: Path
 key: path
 content-length: 47
 
 /sublayouts/Global/Home/StartWithBigTeaser.ascx
+----field----
+field: {E441ABE7-2CA3-4640-AE26-3789967925D7}
+name: Compatible Renderings
+key: compatible renderings
+content-length: 0
+
+
 ----version----
 language: en
 version: 1
-revision: c9e79c1b-6210-47b7-9ad0-1f5b301654f0
+revision: 94130bbc-e387-4227-9eda-0be12705d8ce
 
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
@@ -27,7 +41,7 @@ name: __Created
 key: __created
 content-length: 15
 
-20120209T164843
+20120221T114658
 ----field----
 field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
 name: __Created by
@@ -41,14 +55,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-c9e79c1b-6210-47b7-9ad0-1f5b301654f0
+94130bbc-e387-4227-9eda-0be12705d8ce
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 34
 
-20120209T164843:634644029232979510
+20120221T115332:634654220122086356
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

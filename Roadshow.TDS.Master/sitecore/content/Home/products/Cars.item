@@ -31,13 +31,6 @@ content-length: 0
 
 
 ----field----
-field: {F1A1FE9E-A60C-4DDB-A3A0-BB5B29FE732E}
-name: __Renderings
-key: __renderings
-content-length: 37
-
-<r xmlns:p="p" xmlns:s="s" p:p="1" />
-----field----
 field: {A4F985D9-98B3-4B52-AAAF-4344F6E747C6}
 name: __Workflow
 key: __workflow
@@ -47,7 +40,7 @@ content-length: 38
 ----version----
 language: en
 version: 1
-revision: 2c1fefbb-8814-4f67-8a98-1fd54b0b7440
+revision: 9a21399f-e209-4321-b338-2aa669a65779
 
 ----field----
 field: {7C1474A2-AF56-4E94-A1DE-AD46442DA8E6}
@@ -67,16 +60,22 @@ Cars
 field: {B1AE1B2C-8980-46D6-84C3-B390B792F13B}
 name: Teaser Text
 key: teaser text
-content-length: 56
+content-length: 9
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Das Auto!
 ----field----
 field: {2F36D3C0-F301-43BF-86F6-75FAB1E25E7F}
 name: Description
 key: description
-content-length: 106
+content-length: 2768
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris congue vulputate erat hendrerit tincidunt.
+<p>Nachdem es beim letzten Rennen um den &bdquo;Piston Cup&ldquo; ein dreifaches Unentschieden gab, muss &bdquo;Lightning McQueen&ldquo;, ein sprechendes NASCAR-Auto (ist laut Mister &bdquo;John Gunnell&ldquo; ein Trans Am), zu einem Entscheidungsrennen nach Los Angeles. Auf dem Weg wird er aber nachts von seinem Transport-Truck getrennt. Er muss somit allein nach Kalifornien finden. Orientierungslos (wie alle realen NASCAR-Autos hat er keine Scheinwerfer) landet er auf der Route 66 in &bdquo;Radiator Springs&ldquo;, wo er versehentlich die einzige Dorfstra&szlig;e zerst&ouml;rt. Er wird dazu verurteilt, sie wieder zu reparieren. <br />
+<br />
+W&auml;hrend er damit besch&auml;ftigt ist, freundet er sich mit Hook (im Original: Mater), dem Abschleppwagen, an. Au&szlig;erdem verliebt er sich in Sally, einen Porsche. Sie erkl&auml;rt ihm, wie lebendig Radiator Springs fr&uuml;her war, durch eine neue Interstate aber alle Kundschaft verloren hat und von der Landkarte verschwunden ist. Sally war eine erfolgreiche Anw&auml;ltin in L.A. Sie ist vor dem Gro&szlig;stadtleben gefl&uuml;chtet und lebt hier wegen der beeindruckenden Landschaft. Es kommt auch zum Konflikt mit Doc Hudson, der fr&uuml;her selbst ein ber&uuml;hmter Rennwagen war. Nach einem schweren Unfall wurde er von seinem Rennstall nicht mehr akzeptiert, weshalb er Rennwagen wie Lightning zuerst mit Verachtung betrachtet. Als die Stra&szlig;e fertig ist, hat sich Lightning mit allen Bewohnern des Dorfes angefreundet und m&ouml;chte eigentlich nicht mehr weg. Die Medien und sein Rennteam finden ihn aber wieder, da Doc Hudson sie angerufen hat, und holen ihn zu dem gro&szlig;en Rennen ab. <br />
+<br />
+W&auml;hrend des Rennens ist Lightning zuerst unkonzentriert und liegt weit hinten, da er immer wieder an Radiator Springs zur&uuml;ck denkt. Pl&ouml;tzlich stellt er aber fest, dass seine Freunde mit an der Box und ihm zur Seite stehen. Mit dieser Unterst&uuml;tzung geht er in F&uuml;hrung und ist nah dran zu gewinnen, als sein Konkurrent &bdquo;King&ldquo;, f&uuml;r den dies das letzte Rennen vor dem Ruhestand ist, aus dem Rennen geworfen wird. Statt den schon sicheren Sieg f&uuml;r sich in Anspruch zu nehmen, h&auml;lt Lightning an und schiebt den stark besch&auml;digten King &uuml;ber die Ziellinie, damit er sein letztes Rennen beenden kann. So verliert er zwar den Piston Cup, gewinnt jedoch den Respekt aller anderen Autos und verhindert, dass den King dasselbe Schicksal ereilt wie dereinst Doc Hudson. <br />
+<br />
+Nachdem Lightning sein neues Rennhauptquartier in Radiator Springs er&ouml;ffnet, wird auch der Ort wieder bekannt und beliebt. Zudem er&ouml;ffnet er zusammen mit Sally das fr&uuml;her sehr beliebte Auto-Hotel &bdquo;Wheel Well&ldquo; wieder.</p>
 ----field----
 field: {BD055DA9-D871-4B74-8D6A-26A9A269A4EE}
 name: Image
@@ -97,14 +96,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-2c1fefbb-8814-4f67-8a98-1fd54b0b7440
+9a21399f-e209-4321-b338-2aa669a65779
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 34
 
-20120209T114740:634643848603792058
+20120222T122600:634655103607092168
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

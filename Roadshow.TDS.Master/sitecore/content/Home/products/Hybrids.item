@@ -31,13 +31,6 @@ content-length: 0
 
 
 ----field----
-field: {F1A1FE9E-A60C-4DDB-A3A0-BB5B29FE732E}
-name: __Renderings
-key: __renderings
-content-length: 37
-
-<r xmlns:p="p" xmlns:s="s" p:p="1" />
-----field----
 field: {A4F985D9-98B3-4B52-AAAF-4344F6E747C6}
 name: __Workflow
 key: __workflow
@@ -47,7 +40,7 @@ content-length: 38
 ----version----
 language: en
 version: 1
-revision: c5a00d5c-53b6-4eff-a67e-6b8ca4e05392
+revision: 52cb518c-d7ac-4845-aaa1-56065f37e3fc
 
 ----field----
 field: {7C1474A2-AF56-4E94-A1DE-AD46442DA8E6}
@@ -67,16 +60,16 @@ Hybrids
 field: {B1AE1B2C-8980-46D6-84C3-B390B792F13B}
 name: Teaser Text
 key: teaser text
-content-length: 106
+content-length: 34
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris congue vulputate erat hendrerit tincidunt.
+Auf dem Genfer Automobilsalon 2010
 ----field----
 field: {2F36D3C0-F301-43BF-86F6-75FAB1E25E7F}
 name: Description
 key: description
-content-length: 106
+content-length: 352
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris congue vulputate erat hendrerit tincidunt.
+<p>Mit dem zeigt C4 HDi Hybrid der PSA-Konzern, wie eine gemeinsame Hybridplattform aussehen kann. Die Permanentmagnet Synchronmaschine mit einer maximalen Leistung von 23 kW wird von einer Nickel-Metallhydrid-Batterie mit einer Nennspannung von 288 Volt gespeist. Der Konzernbruder ist der Peugeot 307 HDi Hybrid. Einstufung: Mild-Hybrid, Prototyp</p>
 ----field----
 field: {BD055DA9-D871-4B74-8D6A-26A9A269A4EE}
 name: Image
@@ -97,14 +90,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-c5a00d5c-53b6-4eff-a67e-6b8ca4e05392
+52cb518c-d7ac-4845-aaa1-56065f37e3fc
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 34
 
-20120209T114855:634643849352436915
+20120222T122556:634655103567142168
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
