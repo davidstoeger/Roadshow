@@ -87,6 +87,7 @@
     <Content Include="sublayouts\ContentModules\ImageList\ImageList.ascx" />
     <Content Include="sublayouts\ContentModules\NewsList\NewsList.ascx" />
     <Content Include="sublayouts\Global\Common\Page\BasePageInformation.ascx" />
+    <Content Include="sublayouts\Global\Common\Page\TeaserNavigation.ascx" />
     <Content Include="sublayouts\Global\Framework\Footer.ascx" />
     <Content Include="sublayouts\Global\Framework\Frames\OneColumnContent.ascx" />
     <Content Include="sublayouts\Global\Framework\Frames\ThreeColumnContent.ascx" />
@@ -94,8 +95,10 @@
     <Content Include="sublayouts\Global\Framework\HtmlHeader.ascx" />
     <Content Include="sublayouts\Global\Framework\LeftNavigation.ascx" />
     <Content Include="sublayouts\Global\Framework\TopNavigation.ascx" />
+    <Content Include="sublayouts\Global\Home\Mood.ascx" />
     <Content Include="sublayouts\Global\Home\QuickLinks.ascx" />
     <Content Include="sublayouts\Global\Home\Start.ascx" />
+    <Content Include="sublayouts\Global\Home\StartWithBigTeaser.ascx" />
     <Content Include="sublayouts\Global\Home\Teaser.ascx" />
     <Content Include="sublayouts\Global\News\NewsInformation.ascx" />
     <Content Include="sublayouts\SideBarModules\Contact\ContactBox.ascx" />
@@ -105,6 +108,7 @@
     <Content Include="Web.config">
       <SubType>Designer</SubType>
     </Content>
+    <Content Include="xsl\Mood.xslt" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
@@ -160,6 +164,13 @@
     <Compile Include="sublayouts\Global\Common\Page\BasePageInformation.ascx.designer.cs">
       <DependentUpon>BasePageInformation.ascx</DependentUpon>
     </Compile>
+    <Compile Include="sublayouts\Global\Common\Page\TeaserNavigation.ascx.cs">
+      <DependentUpon>TeaserNavigation.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="sublayouts\Global\Common\Page\TeaserNavigation.ascx.designer.cs">
+      <DependentUpon>TeaserNavigation.ascx</DependentUpon>
+    </Compile>
     <Compile Include="sublayouts\Global\Framework\Footer.ascx.cs">
       <DependentUpon>Footer.ascx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -209,6 +220,13 @@
     <Compile Include="sublayouts\Global\Framework\TopNavigation.ascx.designer.cs">
       <DependentUpon>TopNavigation.ascx</DependentUpon>
     </Compile>
+    <Compile Include="sublayouts\Global\Home\Mood.ascx.cs">
+      <DependentUpon>Mood.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="sublayouts\Global\Home\Mood.ascx.designer.cs">
+      <DependentUpon>Mood.ascx</DependentUpon>
+    </Compile>
     <Compile Include="sublayouts\Global\Home\QuickLinks.ascx.cs">
       <DependentUpon>QuickLinks.ascx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -222,6 +240,13 @@
     </Compile>
     <Compile Include="sublayouts\Global\Home\Start.ascx.designer.cs">
       <DependentUpon>Start.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="sublayouts\Global\Home\StartWithBigTeaser.ascx.cs">
+      <DependentUpon>StartWithBigTeaser.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="sublayouts\Global\Home\StartWithBigTeaser.ascx.designer.cs">
+      <DependentUpon>StartWithBigTeaser.ascx</DependentUpon>
     </Compile>
     <Compile Include="sublayouts\Global\Home\Teaser.ascx.cs">
       <DependentUpon>Teaser.ascx</DependentUpon>
