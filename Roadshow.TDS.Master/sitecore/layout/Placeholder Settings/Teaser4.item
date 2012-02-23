@@ -23,10 +23,17 @@ key: allowed controls
 content-length: 77
 
 {2FCA12CF-9506-409C-819B-9AC4C9D69D06}|{A12C93EF-A1DB-4C7D-ABAC-8F2E93C5CA9A}
+----field----
+field: {DEC8D2D5-E3CF-48B6-A653-8E69E2716641}
+name: __Security
+key: __security
+content-length: 96
+
+ar|sitecore\SA Edit And Design|pe|+item:rename|+item:write|+item:read|+item:create|+item:delete|
 ----version----
 language: en
 version: 1
-revision: f4dbfe44-253b-4226-ba7f-21a95da4ee29
+revision: dd1ea871-c00e-4e2e-96c0-9d20d30572fb
 
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
@@ -41,14 +48,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-f4dbfe44-253b-4226-ba7f-21a95da4ee29
+dd1ea871-c00e-4e2e-96c0-9d20d30572fb
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 34
 
-20120127T205632:634632945927938894
+20120222T140147:634655161074273187
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

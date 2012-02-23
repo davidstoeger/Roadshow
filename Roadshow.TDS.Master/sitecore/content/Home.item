@@ -104,9 +104,9 @@ content-length: 0
 field: {DEC8D2D5-E3CF-48B6-A653-8E69E2716641}
 name: __Security
 key: __security
-content-length: 0
+content-length: 121
 
-
+ar|sitecore\SA Normal Editing|pe|+item:create|+item:write|+item:read|pd|+item:rename|+item:write|+item:read|+item:create|
 ----field----
 field: {56C15C6D-FD5A-40CA-BB37-64CEEC6A9BD5}
 name: __Archive date
@@ -145,7 +145,7 @@ content-length: 0
 ----version----
 language: en
 version: 1
-revision: 76926dba-2903-4f61-9fe9-cd6925d2c7b3
+revision: 41343d37-0379-4188-80c1-1f6a4356b9eb
 
 ----field----
 field: {DEFE0FA6-E636-4F12-8275-9E1710F5C931}
@@ -230,14 +230,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-76926dba-2903-4f61-9fe9-cd6925d2c7b3
+41343d37-0379-4188-80c1-1f6a4356b9eb
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 34
 
-20120222T104942:634655045820578830
+20120222T133804:634655146848578003
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

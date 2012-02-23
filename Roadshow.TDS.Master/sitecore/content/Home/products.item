@@ -27,9 +27,9 @@ content-length: 0
 field: {F1A1FE9E-A60C-4DDB-A3A0-BB5B29FE732E}
 name: __Renderings
 key: __renderings
-content-length: 2322
+content-length: 2271
 
-<r xmlns:p="p" xmlns:s="s" p:p="1"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"><r uid="{58EF2D10-6F86-4D2F-9E42-E62D053B8C62}"><p:d /></r><r uid="{95D7906D-305D-444E-AF10-C7FB5322A75F}" p:before="r[@uid='{39A7843C-49C7-4520-9E9C-F309DC7BAAC1}']" s:cac="0" s:ds="{5A899238-F406-4036-872B-9BA35EE6B5F2}" s:id="{4B9D3879-4D4B-4CA1-B819-4E1B7708F9F4}" s:par="" s:ph="/main/sidebar" s:vbd="0" s:vbdev="0" s:vbl="0" s:vbp="0" s:vbqs="0" s:vbu="0" /><r uid="{39A7843C-49C7-4520-9E9C-F309DC7BAAC1}" p:before="r[@uid='{248A96EE-8C59-423A-9C5D-EA11E3885F53}']" s:id="{04FD4ABE-5E05-403D-87FF-76DE4A82E36D}" s:ph="Main" /><r uid="{8AAE4E3E-2FEC-4622-A789-609575844B61}" p:before="r[@uid='{0AA75C1E-E89B-4E78-8109-D099A845627C}']" s:cac="0" s:ds="/sitecore/content/Home/products/content/news-item" s:id="{D70E50B2-469C-4A05-B0C0-10C47CF75FC9}" s:par="Index Name=news&amp;Max News Items=3" s:ph="/main/middlecolumn" s:vbd="0" s:vbdev="0" s:vbl="0" s:vbp="0" s:vbqs="0" s:vbu="0" /><r uid="{0AA75C1E-E89B-4E78-8109-D099A845627C}" p:before="r[@uid='{8C7C663A-28AB-443F-9D6E-7D9E6A5F329A}']" s:ds="/sitecore/content/Home/products/content/roadshow-images" s:id="{060EC704-FCE9-4CC0-A2D5-34D8DAA47F78}" s:ph="/main/middlecolumn" /><r uid="{E96BB87F-A586-4553-83CC-056EDF8E9417}" p:before="r[@uid='{3D86FD5A-07F5-4170-A818-21E700A51C49}']" /><r uid="{3D86FD5A-07F5-4170-A818-21E700A51C49}" p:before="r[@uid='{C188A603-16BC-4ED9-A945-AD2CBE9B7E3C}']" s:id="{7FF32C17-8157-4AE8-B8D0-88C293FD0EF2}" s:ph="sidebar" /><r uid="{C188A603-16BC-4ED9-A945-AD2CBE9B7E3C}" s:ds="/sitecore/content/Home/products/sidebar/Andreas-Schmidt" s:id="{4B9D3879-4D4B-4CA1-B819-4E1B7708F9F4}" s:ph="/main/sidebar"><rls><ruleset><rule uid="{44787A37-D1F0-4BB8-9DCC-84FFDD9B6884}" s:name="User Is Authenticated"><conditions><condition uid="6DFECA62D2344878961D8C0C029EA030" s:id="{EA0642FA-500B-4B2F-B264-765E771C516F}" s:except="true" /></conditions><actions><action uid="E867FE463869460D9061DFF8EEAFE074" s:id="{0F3C6BEC-E56B-4875-93D7-2846A75881D2}" s:DataSource="{5A899238-F406-4036-872B-9BA35EE6B5F2}" /></actions></rule><rule uid="{00000000-0000-0000-0000-000000000000}" s:name="Default"><conditions><condition uid="B4CA491ADAD649C09ED404EF61F65845" s:id="{4888ABBB-F17D-4485-B14B-842413F88732}" /></conditions><actions /></rule></ruleset></rls></r></d></r>
+<r xmlns:p="p" xmlns:s="s" p:p="1"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"><r uid="{58EF2D10-6F86-4D2F-9E42-E62D053B8C62}"><p:d /></r><r uid="{95D7906D-305D-444E-AF10-C7FB5322A75F}" p:before="r[@uid='{39A7843C-49C7-4520-9E9C-F309DC7BAAC1}']" s:cac="0" s:ds="{5A899238-F406-4036-872B-9BA35EE6B5F2}" s:id="{4B9D3879-4D4B-4CA1-B819-4E1B7708F9F4}" s:par="" s:ph="/main/sidebar" s:vbd="0" s:vbdev="0" s:vbl="0" s:vbp="0" s:vbqs="0" s:vbu="0" /><r uid="{39A7843C-49C7-4520-9E9C-F309DC7BAAC1}" p:before="r[@uid='{248A96EE-8C59-423A-9C5D-EA11E3885F53}']" s:id="{04FD4ABE-5E05-403D-87FF-76DE4A82E36D}" s:ph="Main" /><r uid="{8AAE4E3E-2FEC-4622-A789-609575844B61}" p:before="r[@uid='{0AA75C1E-E89B-4E78-8109-D099A845627C}']" s:cac="0" s:ds="/sitecore/content/Home/products/content/news-item" s:id="{D70E50B2-469C-4A05-B0C0-10C47CF75FC9}" s:par="Index Name=news&amp;Max News Items=3" s:ph="/main/middlecolumn" s:vbd="0" s:vbdev="0" s:vbl="0" s:vbp="0" s:vbqs="0" s:vbu="0" /><r uid="{0AA75C1E-E89B-4E78-8109-D099A845627C}" p:before="r[@uid='{E96BB87F-A586-4553-83CC-056EDF8E9417}']" s:ds="/sitecore/content/Home/products/content/roadshow-images" s:id="{060EC704-FCE9-4CC0-A2D5-34D8DAA47F78}" s:ph="/main/middlecolumn" /><r uid="{8C7C663A-28AB-443F-9D6E-7D9E6A5F329A}"><p:d /></r><r uid="{3D86FD5A-07F5-4170-A818-21E700A51C49}" p:before="r[@uid='{C188A603-16BC-4ED9-A945-AD2CBE9B7E3C}']" s:id="{7FF32C17-8157-4AE8-B8D0-88C293FD0EF2}" s:ph="sidebar" /><r uid="{C188A603-16BC-4ED9-A945-AD2CBE9B7E3C}" s:ds="/sitecore/content/Home/products/sidebar/Andreas-Schmidt" s:id="{4B9D3879-4D4B-4CA1-B819-4E1B7708F9F4}" s:ph="/main/sidebar"><rls><ruleset><rule uid="{44787A37-D1F0-4BB8-9DCC-84FFDD9B6884}" s:name="User Is Authenticated"><conditions><condition uid="6DFECA62D2344878961D8C0C029EA030" s:id="{EA0642FA-500B-4B2F-B264-765E771C516F}" s:except="true" /></conditions><actions><action uid="E867FE463869460D9061DFF8EEAFE074" s:id="{0F3C6BEC-E56B-4875-93D7-2846A75881D2}" s:DataSource="{5A899238-F406-4036-872B-9BA35EE6B5F2}" /></actions></rule><rule uid="{00000000-0000-0000-0000-000000000000}" s:name="Default"><conditions><condition uid="B4CA491ADAD649C09ED404EF61F65845" s:id="{4888ABBB-F17D-4485-B14B-842413F88732}" /></conditions><actions /></rule></ruleset></rls></r></d></r>
 ----field----
 field: {A4F985D9-98B3-4B52-AAAF-4344F6E747C6}
 name: __Workflow
@@ -40,7 +40,7 @@ content-length: 38
 ----version----
 language: en
 version: 1
-revision: 69ff44e5-979a-4a44-a1e3-e4ae39fca427
+revision: a00f598a-9a23-45b7-bbb2-e44156cfaee6
 
 ----field----
 field: {7C1474A2-AF56-4E94-A1DE-AD46442DA8E6}
@@ -67,7 +67,7 @@ Machen Sie Interessenten zu wiederkehrenden Kunden!
 field: {2F36D3C0-F301-43BF-86F6-75FAB1E25E7F}
 name: Description
 key: description
-content-length: 1126
+content-length: 1122
 
 <P>Das Marketing muss heute viele Kanäle bespielen, um die maximale Reichweite zu entfalten. Nur wenn Websites, mobile Websites, Social Medial-Angebote, E-Mail-Kampagnen, SEO und SEM eng verzahnt sind, ist digitales Marketing nachhaltig und erfolgreich. <BR><BR>Mit der Sitecore Customer Engagement Platform verbinden Sie alle Kanäle, können die Erfolge leichter analysieren und sehen, wie ihre Nutzer sich von Kanal zu Kanal bewegen. Die Lösung basiert auf Sitecore CMS und aufbauenden, integrierten Digital Marketing Modulen. <BR><BR>Die technische Basis ist tausendfach bewährt und zählt laut Analysten wie Forrester und Gartner zu den besten weltweit. Sitecore CMS ist das flexible, skalierbare und robuste .Net System, das Sie suchen. </P>
 <UL>
@@ -115,14 +115,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-69ff44e5-979a-4a44-a1e3-e4ae39fca427
+a00f598a-9a23-45b7-bbb2-e44156cfaee6
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 34
 
-20120222T114833:634655081133589495
+20120223T135704:634656022246443396
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

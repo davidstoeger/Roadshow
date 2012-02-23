@@ -12,7 +12,7 @@ templatekey: Rich Text
 ----version----
 language: en
 version: 1
-revision: 13ffb697-9a31-4470-a173-fe34d2b36698
+revision: 89405505-2ba1-43c2-a202-f00824f50d9e
 
 ----field----
 field: {4513354D-FBA4-487D-B2FD-A66A968D7395}
@@ -25,7 +25,7 @@ Visit us at CeBit
 field: {12C1C379-11D2-4EFE-BB57-4E8EA8114F92}
 name: Text
 key: text
-content-length: 165
+content-length: 161
 
 <p>We are located at booth number 38 in area 54.</p>
 <p><a href="http://roadshow-1.local.com/~/media/08AB1EBF448E466E832A01952F291510.ashx">
@@ -59,14 +59,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-13ffb697-9a31-4470-a173-fe34d2b36698
+89405505-2ba1-43c2-a202-f00824f50d9e
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 34
 
-20120125T124337:634630922179337792
+20120223T135812:634656022928611606
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
