@@ -5,6 +5,7 @@ using System.Web;
 using Sitecore.Analytics.Pipelines.StartTracking;
 using Sitecore.Analytics;
 using Sitecore.Analytics.Data.DataAccess;
+using Sitecore.Pipelines.RenderField;
 
 namespace Sitecore.Roadshow.Application.Pipelines
 {
