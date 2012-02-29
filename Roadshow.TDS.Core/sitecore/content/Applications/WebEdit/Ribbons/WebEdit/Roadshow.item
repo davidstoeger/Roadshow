@@ -27,9 +27,9 @@ content-length: 3
 field: {DEC8D2D5-E3CF-48B6-A653-8E69E2716641}
 name: __Security
 key: __security
-content-length: 69
+content-length: 0
 
-ar|sitecore\Sitecore Limited Page Editor|pe|-item:read|pd|-item:read|
+
 ----version----
 language: da
 version: 1
@@ -141,7 +141,7 @@ sitecore\admin
 ----version----
 language: en
 version: 1
-revision: 4ef2f783-b146-429c-bccb-db3c96941f83
+revision: 19053626-db63-40cd-9da1-73303bc58278
 
 ----field----
 field: {5453DC07-6A17-48BA-8D05-17DB90A2E795}
@@ -177,14 +177,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-4ef2f783-b146-429c-bccb-db3c96941f83
+19053626-db63-40cd-9da1-73303bc58278
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 34
 
-20120116T124817:634623148977418093
+20120222T134332:634655150122828152
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
